@@ -1,4 +1,4 @@
-def my_func(data):
+def my_func(data: list[int, float]) -> float:
     res = sum(data) / len(data)
     return res
 
