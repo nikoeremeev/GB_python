@@ -1,4 +1,4 @@
-text = 'Привет.' 'Как ты, друг?' 'Рад тебя видеть.'
+text = 'Привет. Как ты, друг? Рад тебя видеть.'
 print(text)
 
 very_long_text = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab alias animi assumenda at aut ' \
