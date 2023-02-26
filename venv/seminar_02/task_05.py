@@ -15,7 +15,7 @@ b = int(input("Введите число B: "))
 c = int(input("Введите число C: "))
 
 D = b ** 2 - 4 * a * c
-print("Дискриминант D = %.2f" % D)
+print(f"Дискриминант D = {round(D, 2)}" % D)
 
 if D > 0:
     x1 = (-b + sqrt(D)) / (2 * a)
