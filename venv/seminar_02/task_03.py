@@ -21,7 +21,7 @@ def number_system(num, system_num):
 BINARY = 2
 OCTAL = 8
 n = int(input(
-    "Введите число для преобразовывания десятичного числа в двоичное: "))
+    "Введите число для преобразовывания: "))
 print(number_system(n, BINARY))
 print(bin(n))
 print(number_system(n, OCTAL))
