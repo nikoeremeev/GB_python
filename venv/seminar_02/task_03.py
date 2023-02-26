@@ -9,3 +9,20 @@
 ✔ Избегайте магических чисел
 ✔ Добавьте аннотацию типов где это возможно
 """
+
+
+def number_system(num, system_num):
+    s = ""
+    while num != 0:
+        s = str(num % system_num) + s
+        num //= system_num
+    return s
+
+BINARY = 2
+OCTAL = 8
+n = int(input(
+    "Введите число для преобразовывания десятичного числа в двоичное: "))
+print(number_system(n, BINARY))
+print(bin(n))
+print(number_system(n, OCTAL))
+print(oct(n))
