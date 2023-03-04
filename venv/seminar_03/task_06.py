@@ -5,3 +5,10 @@
 ✔ Текст выравнивается по правому краю так, чтобы у самого длинного
 слова был один пробел между ним и номером строки.
 """
+text = input("Введите строку: ").split(' ')
+max_len = len(text[0])
+for i in range(len(text)):
+    if max_len < len(text[i]):
+        max_len = len(text[i])
+for i in range(len(text)):
+    print(f"{i + 1} {text[i]}".rjust(max_len + 1 + len(text) // 10), " ")
