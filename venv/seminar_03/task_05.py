@@ -4,3 +4,10 @@
 нечётных элементов исходного списка.
 ✔ Нумерация начинается с единицы.
 """
+
+lst = [1, 2, 5, 9, 4, 1, 2, 3, 4, 5, 6, 8, 4]
+temp_index = []
+for i in range(len(lst)):
+    if lst[i] % 2 != 0:
+        temp_index.append(i + 1)
+print(temp_index)

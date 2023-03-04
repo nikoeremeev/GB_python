@@ -6,7 +6,7 @@
 lst = [25, 26, 25, 26, 50, 1, 3]
 temp = []
 for item in lst:
-    if not lst.count(item) == 2:
+    if not lst.count(item) >= 2:
         temp.append(item)
 print(temp)
 print(set(lst)) # если удалять только дублирующиеся элементы
