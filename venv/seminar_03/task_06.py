@@ -11,4 +11,4 @@ for i in range(len(text)):
     if max_len < len(text[i]):
         max_len = len(text[i])
 for i in range(len(text)):
-    print(f"{i + 1} {text[i]}".rjust(max_len + 1 + len(text) // 10), " ")
+    print(f"{i + 1} {text[i]:>{max_len}}")
