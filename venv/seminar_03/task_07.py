@@ -10,3 +10,14 @@
 Объясните почему они совпадают
 или не совпадают в ваших решениях.
 """
+
+text = input("Введите строку: ")
+my_dict = dict()
+count = 0
+for item in text:
+    if item not in my_dict.keys():
+        my_dict[item] = 1
+    else:
+        my_dict[item] = my_dict[item] + 1
+
+print(my_dict)
