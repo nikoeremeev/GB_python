@@ -16,4 +16,11 @@ def calc_bonus_amount(lst_names, lst_rates, lst_bonuses):
     return result
 
 
+# def calc_bonus_amount(names: list[str], salaries: list[int], bonus: list[str]) -> dict[str, float]:
+#     result = {}
+#     for n, s, b in zip(names, salaries, bonus):
+#         result[n] = (s * float(b[:-1])) / 100
+#     return result
+
+
 print(calc_bonus_amount(["Вася", "Петя", "Вова"], [1000, 500, 250], ["10.02%", "5.8%", "25%"]))
