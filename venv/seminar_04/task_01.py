@@ -28,4 +28,4 @@ def str_sort(user_string) -> None:
         print(f'{i} {k:>{max_len}}')
 
 
-str_sort("dsc dscsdc ds cd d sdc d  s".split())
+str_sort("Напишите функцию, которая принимает строку текста".split())
