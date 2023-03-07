@@ -1,0 +1,3 @@
+"""vars()"""
+
+print(vars(int))
