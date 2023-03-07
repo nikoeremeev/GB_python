@@ -21,7 +21,7 @@
 # user_string = input("Введите строку:").split()
 # str_sort(user_string)
 
-def str_sort(user_string):
+def str_sort(user_string) -> None:
     user_string.sort()
     max_len = len(max(user_string, key=len))
     for i, k in enumerate(user_string, start=1):
