@@ -12,3 +12,7 @@ def func(a, b, c):
 
 print(globals())
 print(func(1, 2, 3))
+x = 42
+glob_dict = globals()
+glob_dict['x'] = 73
+print(x)
