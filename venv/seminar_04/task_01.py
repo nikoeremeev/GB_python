@@ -8,8 +8,7 @@
 """
 
 
-def str_sort():
-    user_string = input("Введите строку:").split()
+def str_sort(user_string):
     user_string.sort()
     max_len_temp = 0
     for item in user_string:
@@ -19,4 +18,5 @@ def str_sort():
         print(f'{i} {k:>{max_len_temp}}')
 
 
-str_sort()
+user_string = input("Введите строку:").split()
+str_sort(user_string)
