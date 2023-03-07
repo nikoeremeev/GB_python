@@ -8,15 +8,24 @@
 """
 
 
+# def str_sort(user_string):
+#     user_string.sort()
+#     max_len_temp = 0
+#     for item in user_string:
+#         if len(item) > max_len_temp:
+#             max_len_temp = len(item)
+#     for i, k in enumerate(user_string, start=1):
+#         print(f'{i} {k:>{max_len_temp}}')
+
+
+# user_string = input("Введите строку:").split()
+# str_sort(user_string)
+
 def str_sort(user_string):
     user_string.sort()
-    max_len_temp = 0
-    for item in user_string:
-        if len(item) > max_len_temp:
-            max_len_temp = len(item)
+    max_len = len(max(user_string, key=len))
     for i, k in enumerate(user_string, start=1):
-        print(f'{i} {k:>{max_len_temp}}')
+        print(f'{i} {k:>{max_len}}')
 
 
-user_string = input("Введите строку:").split()
-str_sort(user_string)
+str_sort("dsc dscsdc ds cd d sdc d  s".split())
