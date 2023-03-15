@@ -6,3 +6,12 @@
     ✔ первое число является значением для первого ключа.
     ✔ четвертое и все возможные последующие числа хранятся в кортеже как значения второго ключа.
 """
+
+
+def slash(s: str) -> dict[int, int]:
+    one, two, three, *other = s.split('/')
+    result_dict = {int(two): int(one), int(three): tuple(map(int, other))}
+    return result_dict
+
+
+print(slash(input("Введите числа: ")))
