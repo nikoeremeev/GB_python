@@ -25,4 +25,5 @@ def guess_the_number(lower_bound, upper_bound, number_of_attempts):
     return False
 
 
-guess_the_number(0, 100, 5)
+if __name__ == '__main__':
+    print(guess_the_number(0, 10, 5))
