@@ -15,7 +15,7 @@ def guess_the_riddle(riddle: str, variants_of_guesses: list, number_of_attempts:
 
 
 if __name__ == '__main__':
-    riddle = "Зимой и летом одним цветом."
-    variants_of_guesses = ["ель", "сосна"]
-    number_of_attempts = 2
-    print(guess_the_riddle(riddle, variants_of_guesses, number_of_attempts))
+    rid = "Зимой и летом одним цветом."
+    variants = ["ель", "сосна"]
+    number = 2
+    print(guess_the_riddle(rid, variants, number))
