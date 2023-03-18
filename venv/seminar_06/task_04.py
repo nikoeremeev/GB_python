@@ -4,6 +4,10 @@
 Программа возвращает номер попытки, с которой была отгадана загадка или ноль, если попытки исчерпаны.
 """
 
+__all__ = [
+    'guess_the_riddle'
+]
+
 
 def guess_the_riddle(riddle: str, variants_of_guesses: list, number_of_attempts: int) -> int:
     print(f"Загадка: {riddle}.")

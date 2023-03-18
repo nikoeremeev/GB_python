@@ -8,6 +8,10 @@
 
 from random import randint
 
+__all__ = [
+    'guess_the_number'
+]
+
 
 def guess_the_number(lower_bound, upper_bound, number_of_attempts):
     random_number = randint(lower_bound, upper_bound)

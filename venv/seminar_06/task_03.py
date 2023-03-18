@@ -8,6 +8,10 @@
 from sys import argv
 from random import randint
 
+__all__ = [
+    'guess_the_number'
+]
+
 
 def guess_the_number(lower_bound: int = 0, upper_bound: int = 100, number_of_attempts: int = 5) -> bool:
     random_number = randint(lower_bound, upper_bound)

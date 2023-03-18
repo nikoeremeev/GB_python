@@ -4,6 +4,10 @@
 Функция в цикле вызывает загадывающую функцию, чтобы передать ей все свои загадки.
 """
 
+__all__ = [
+    'add_riddle', 'guess_the_riddle', 'game_guess'
+]
+
 
 def add_riddle(riddle: str, variants_of_guesses: list, dict_of_riddles: dict = {}) -> dict:
     dict_of_riddles[riddle] = variants_of_guesses

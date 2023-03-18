@@ -7,6 +7,10 @@
 
 from sys import argv
 
+__all__ = [
+    'check_date'
+]
+
 _EVERY_4_YEAR = 4
 _EVERY_100_YEAR = 100
 _BIG_YEAR = 400
