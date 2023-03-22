@@ -7,6 +7,10 @@
 
 import json
 
+__all__ = [
+    'parse_file_to_JSON'
+]
+
 
 def parse_file_to_JSON(file_name: str, file_name_JSON: str) -> None:
     with open(file_name, 'r', encoding='utf-8') as f:
@@ -18,4 +22,5 @@ def parse_file_to_JSON(file_name: str, file_name_JSON: str) -> None:
             json.dump(data_dict, f1, ensure_ascii=False, indent=2)
 
 
-parse_file_to_JSON("task_01_data.txt", "task_01_data")
+if __name__ == '__main__':
+    parse_file_to_JSON("task_01_data.txt", "task_01_data")

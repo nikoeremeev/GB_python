@@ -9,6 +9,13 @@
 
 import json
 
+__all__ = [
+    'input_data',
+    'check_id',
+    'check_level',
+    'add_info'
+]
+
 
 def input_data() -> (str, int, int):
     in_data = input("Введите имя пользователя, идентификатор и уровень доступа через запятую: ").replace(' ', '').split(
