@@ -17,6 +17,7 @@ __all__ = [
     'recursive_directories'
 ]
 
+
 def write_json(data: dict) -> None:
     with open('info.json', 'w') as f:
         json.dump(data, f, indent=2)
