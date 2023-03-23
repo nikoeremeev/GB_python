@@ -1,0 +1,8603 @@
+{
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv": {
+    "lesson_01": {
+      "size": 4363,
+      "type": "directory"
+    },
+    "lesson_02": {
+      "size": 4978,
+      "type": "directory"
+    },
+    "lesson_03": {
+      "size": 10117,
+      "type": "directory"
+    },
+    "lesson_04": {
+      "size": 10010,
+      "type": "directory"
+    },
+    "lesson_05": {
+      "size": 5460,
+      "type": "directory"
+    },
+    "lesson_06": {
+      "size": 6696,
+      "type": "directory"
+    },
+    "lesson_07": {
+      "size": 10568,
+      "type": "directory"
+    },
+    "lesson_08": {
+      "size": 11777,
+      "type": "directory"
+    },
+    "Lib": {
+      "size": 16858296,
+      "type": "directory"
+    },
+    "Scripts": {
+      "size": 2160578,
+      "type": "directory"
+    },
+    "seminar_01": {
+      "size": 6266,
+      "type": "directory"
+    },
+    "seminar_02": {
+      "size": 9936,
+      "type": "directory"
+    },
+    "seminar_03": {
+      "size": 9509,
+      "type": "directory"
+    },
+    "seminar_04": {
+      "size": 10206,
+      "type": "directory"
+    },
+    "seminar_05": {
+      "size": 6331,
+      "type": "directory"
+    },
+    "seminar_06": {
+      "size": 8430,
+      "type": "directory"
+    },
+    "seminar_07": {
+      "size": 7908,
+      "type": "directory"
+    },
+    "seminar_08": {
+      "size": 542549,
+      "type": "directory"
+    },
+    ".gitignore": {
+      "size": 42,
+      "type": "file"
+    },
+    "pyvenv.cfg": {
+      "size": 404,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_01": {
+    "task_01.py": {
+      "size": 480,
+      "type": "file"
+    },
+    "task_if_01.py": {
+      "size": 104,
+      "type": "file"
+    },
+    "task_if_02.py": {
+      "size": 197,
+      "type": "file"
+    },
+    "task_if_03.py": {
+      "size": 248,
+      "type": "file"
+    },
+    "task_if_04.py": {
+      "size": 387,
+      "type": "file"
+    },
+    "task_if_05.py": {
+      "size": 315,
+      "type": "file"
+    },
+    "task_if_06.py": {
+      "size": 379,
+      "type": "file"
+    },
+    "task_if_07.py": {
+      "size": 290,
+      "type": "file"
+    },
+    "task_if_08.py": {
+      "size": 196,
+      "type": "file"
+    },
+    "task_if_09.py": {
+      "size": 166,
+      "type": "file"
+    },
+    "task_if_10.py": {
+      "size": 228,
+      "type": "file"
+    },
+    "task_loop_01.py": {
+      "size": 114,
+      "type": "file"
+    },
+    "task_loop_02.py": {
+      "size": 196,
+      "type": "file"
+    },
+    "task_loop_03.py": {
+      "size": 304,
+      "type": "file"
+    },
+    "task_loop_04.py": {
+      "size": 473,
+      "type": "file"
+    },
+    "task_loop_05.py": {
+      "size": 74,
+      "type": "file"
+    },
+    "task_loop_06.py": {
+      "size": 91,
+      "type": "file"
+    },
+    "task_loop_07.py": {
+      "size": 121,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_02": {
+    "lesson_task_01.py": {
+      "size": 55,
+      "type": "file"
+    },
+    "lesson_task_02.py": {
+      "size": 721,
+      "type": "file"
+    },
+    "task_atr_01.py": {
+      "size": 49,
+      "type": "file"
+    },
+    "task_atr_02.py": {
+      "size": 63,
+      "type": "file"
+    },
+    "task_atr_03.py": {
+      "size": 26,
+      "type": "file"
+    },
+    "task_atr_04.py": {
+      "size": 31,
+      "type": "file"
+    },
+    "task_dig_01.py": {
+      "size": 85,
+      "type": "file"
+    },
+    "task_dig_02.py": {
+      "size": 113,
+      "type": "file"
+    },
+    "task_dig_03.py": {
+      "size": 23,
+      "type": "file"
+    },
+    "task_dig_04.py": {
+      "size": 77,
+      "type": "file"
+    },
+    "task_dig_05.py": {
+      "size": 99,
+      "type": "file"
+    },
+    "task_dig_06.py": {
+      "size": 169,
+      "type": "file"
+    },
+    "task_dig_07.py": {
+      "size": 150,
+      "type": "file"
+    },
+    "task_dig_08.py": {
+      "size": 74,
+      "type": "file"
+    },
+    "task_math_01.py": {
+      "size": 99,
+      "type": "file"
+    },
+    "task_math_02.py": {
+      "size": 302,
+      "type": "file"
+    },
+    "task_math_03.py": {
+      "size": 118,
+      "type": "file"
+    },
+    "task_math_04.py": {
+      "size": 71,
+      "type": "file"
+    },
+    "task_math_05.py": {
+      "size": 146,
+      "type": "file"
+    },
+    "task_mut_01.py": {
+      "size": 186,
+      "type": "file"
+    },
+    "task_mut_02.py": {
+      "size": 101,
+      "type": "file"
+    },
+    "task_mut_03.py": {
+      "size": 171,
+      "type": "file"
+    },
+    "task_str_01.py": {
+      "size": 208,
+      "type": "file"
+    },
+    "task_str_02.py": {
+      "size": 467,
+      "type": "file"
+    },
+    "task_str_03.py": {
+      "size": 360,
+      "type": "file"
+    },
+    "task_str_04.py": {
+      "size": 210,
+      "type": "file"
+    },
+    "task_type_01.py": {
+      "size": 55,
+      "type": "file"
+    },
+    "task_type_02.py": {
+      "size": 105,
+      "type": "file"
+    },
+    "task_type_03.py": {
+      "size": 124,
+      "type": "file"
+    },
+    "task_type_04.py": {
+      "size": 147,
+      "type": "file"
+    },
+    "task_type_05.py": {
+      "size": 73,
+      "type": "file"
+    },
+    "task_typing_01.py": {
+      "size": 78,
+      "type": "file"
+    },
+    "task_typing_02.py": {
+      "size": 140,
+      "type": "file"
+    },
+    "task_typing_03.py": {
+      "size": 82,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_03": {
+    "lesson_task_01.py": {
+      "size": 178,
+      "type": "file"
+    },
+    "lesson_task_02.py": {
+      "size": 122,
+      "type": "file"
+    },
+    "lesson_task_03.py": {
+      "size": 196,
+      "type": "file"
+    },
+    "lesson_task_04.py": {
+      "size": 207,
+      "type": "file"
+    },
+    "lesson_task_05.py": {
+      "size": 191,
+      "type": "file"
+    },
+    "task_bytes_01.py": {
+      "size": 169,
+      "type": "file"
+    },
+    "task_bytes_02.py": {
+      "size": 110,
+      "type": "file"
+    },
+    "task_dict_01.py": {
+      "size": 186,
+      "type": "file"
+    },
+    "task_dict_02.py": {
+      "size": 92,
+      "type": "file"
+    },
+    "task_dict_03.py": {
+      "size": 159,
+      "type": "file"
+    },
+    "task_dict_04.py": {
+      "size": 182,
+      "type": "file"
+    },
+    "task_dict_05.py": {
+      "size": 357,
+      "type": "file"
+    },
+    "task_dict_06.py": {
+      "size": 133,
+      "type": "file"
+    },
+    "task_dict_07.py": {
+      "size": 141,
+      "type": "file"
+    },
+    "task_dict_08.py": {
+      "size": 242,
+      "type": "file"
+    },
+    "task_dict_09.py": {
+      "size": 184,
+      "type": "file"
+    },
+    "task_dict_10.py": {
+      "size": 250,
+      "type": "file"
+    },
+    "task_dict_11.py": {
+      "size": 321,
+      "type": "file"
+    },
+    "task_list_01.py": {
+      "size": 112,
+      "type": "file"
+    },
+    "task_list_02.py": {
+      "size": 189,
+      "type": "file"
+    },
+    "task_list_03.py": {
+      "size": 277,
+      "type": "file"
+    },
+    "task_list_04.py": {
+      "size": 253,
+      "type": "file"
+    },
+    "task_list_05.py": {
+      "size": 180,
+      "type": "file"
+    },
+    "task_list_06.py": {
+      "size": 122,
+      "type": "file"
+    },
+    "task_list_07.py": {
+      "size": 195,
+      "type": "file"
+    },
+    "task_list_08.py": {
+      "size": 171,
+      "type": "file"
+    },
+    "task_list_09.py": {
+      "size": 151,
+      "type": "file"
+    },
+    "task_list_10.py": {
+      "size": 230,
+      "type": "file"
+    },
+    "task_list_11.py": {
+      "size": 177,
+      "type": "file"
+    },
+    "task_list_12.py": {
+      "size": 109,
+      "type": "file"
+    },
+    "task_list_13.py": {
+      "size": 185,
+      "type": "file"
+    },
+    "task_list_14.py": {
+      "size": 165,
+      "type": "file"
+    },
+    "task_list_15.py": {
+      "size": 202,
+      "type": "file"
+    },
+    "task_list_16.py": {
+      "size": 323,
+      "type": "file"
+    },
+    "task_list_17.py": {
+      "size": 327,
+      "type": "file"
+    },
+    "task_list_18.py": {
+      "size": 167,
+      "type": "file"
+    },
+    "task_set_01.py": {
+      "size": 204,
+      "type": "file"
+    },
+    "task_set_02.py": {
+      "size": 209,
+      "type": "file"
+    },
+    "task_set_03.py": {
+      "size": 102,
+      "type": "file"
+    },
+    "task_set_04.py": {
+      "size": 86,
+      "type": "file"
+    },
+    "task_set_05.py": {
+      "size": 302,
+      "type": "file"
+    },
+    "task_set_06.py": {
+      "size": 236,
+      "type": "file"
+    },
+    "task_set_07.py": {
+      "size": 241,
+      "type": "file"
+    },
+    "task_set_08.py": {
+      "size": 53,
+      "type": "file"
+    },
+    "task_str_01.py": {
+      "size": 128,
+      "type": "file"
+    },
+    "task_str_02.py": {
+      "size": 117,
+      "type": "file"
+    },
+    "task_str_03.py": {
+      "size": 42,
+      "type": "file"
+    },
+    "task_str_04.py": {
+      "size": 105,
+      "type": "file"
+    },
+    "task_str_05.py": {
+      "size": 109,
+      "type": "file"
+    },
+    "task_str_06.py": {
+      "size": 158,
+      "type": "file"
+    },
+    "task_str_07.py": {
+      "size": 238,
+      "type": "file"
+    },
+    "task_str_08.py": {
+      "size": 298,
+      "type": "file"
+    },
+    "task_str_09.py": {
+      "size": 105,
+      "type": "file"
+    },
+    "task_str_10.py": {
+      "size": 156,
+      "type": "file"
+    },
+    "task_str_11.py": {
+      "size": 154,
+      "type": "file"
+    },
+    "task_tuple_01.py": {
+      "size": 119,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_04": {
+    "lesson_task_01.py": {
+      "size": 174,
+      "type": "file"
+    },
+    "task_builtins_01.py": {
+      "size": 155,
+      "type": "file"
+    },
+    "task_builtins_02.py": {
+      "size": 122,
+      "type": "file"
+    },
+    "task_builtins_03.py": {
+      "size": 324,
+      "type": "file"
+    },
+    "task_builtins_04.py": {
+      "size": 293,
+      "type": "file"
+    },
+    "task_builtins_05.py": {
+      "size": 293,
+      "type": "file"
+    },
+    "task_builtins_06.py": {
+      "size": 114,
+      "type": "file"
+    },
+    "task_builtins_07.py": {
+      "size": 421,
+      "type": "file"
+    },
+    "task_builtins_08.py": {
+      "size": 362,
+      "type": "file"
+    },
+    "task_builtins_09.py": {
+      "size": 74,
+      "type": "file"
+    },
+    "task_builtins_10.py": {
+      "size": 74,
+      "type": "file"
+    },
+    "task_builtins_11.py": {
+      "size": 137,
+      "type": "file"
+    },
+    "task_builtins_12.py": {
+      "size": 226,
+      "type": "file"
+    },
+    "task_builtins_13.py": {
+      "size": 34,
+      "type": "file"
+    },
+    "task_def_01.py": {
+      "size": 130,
+      "type": "file"
+    },
+    "task_def_02.py": {
+      "size": 26,
+      "type": "file"
+    },
+    "task_def_03.py": {
+      "size": 364,
+      "type": "file"
+    },
+    "task_def_04.py": {
+      "size": 346,
+      "type": "file"
+    },
+    "task_def_05.py": {
+      "size": 291,
+      "type": "file"
+    },
+    "task_def_06.py": {
+      "size": 407,
+      "type": "file"
+    },
+    "task_def_07.py": {
+      "size": 252,
+      "type": "file"
+    },
+    "task_def_08.py": {
+      "size": 381,
+      "type": "file"
+    },
+    "task_def_09.py": {
+      "size": 235,
+      "type": "file"
+    },
+    "task_def_10.py": {
+      "size": 235,
+      "type": "file"
+    },
+    "task_def_11.py": {
+      "size": 220,
+      "type": "file"
+    },
+    "task_def_12.py": {
+      "size": 263,
+      "type": "file"
+    },
+    "task_def_13.py": {
+      "size": 275,
+      "type": "file"
+    },
+    "task_def_14.py": {
+      "size": 267,
+      "type": "file"
+    },
+    "task_def_15.py": {
+      "size": 162,
+      "type": "file"
+    },
+    "task_def_16.py": {
+      "size": 574,
+      "type": "file"
+    },
+    "task_def_17.py": {
+      "size": 77,
+      "type": "file"
+    },
+    "task_def_18.py": {
+      "size": 278,
+      "type": "file"
+    },
+    "task_def_19.py": {
+      "size": 241,
+      "type": "file"
+    },
+    "task_def_20.py": {
+      "size": 336,
+      "type": "file"
+    },
+    "task_def_21.py": {
+      "size": 353,
+      "type": "file"
+    },
+    "task_def_22.py": {
+      "size": 419,
+      "type": "file"
+    },
+    "task_def_23.py": {
+      "size": 109,
+      "type": "file"
+    },
+    "task_def_24.py": {
+      "size": 338,
+      "type": "file"
+    },
+    "task_def_25.py": {
+      "size": 246,
+      "type": "file"
+    },
+    "task_def_26.py": {
+      "size": 382,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_05": {
+    "lesson_task_01.py": {
+      "size": 73,
+      "type": "file"
+    },
+    "lesson_task_02.py": {
+      "size": 136,
+      "type": "file"
+    },
+    "lesson_task_03.py": {
+      "size": 197,
+      "type": "file"
+    },
+    "lesson_task_04.py": {
+      "size": 176,
+      "type": "file"
+    },
+    "mydata.bin": {
+      "size": 52,
+      "type": "file"
+    },
+    "task_generator_01.py": {
+      "size": 172,
+      "type": "file"
+    },
+    "task_generator_02.py": {
+      "size": 151,
+      "type": "file"
+    },
+    "task_generator_03.py": {
+      "size": 199,
+      "type": "file"
+    },
+    "task_generator_04.py": {
+      "size": 143,
+      "type": "file"
+    },
+    "task_generator_05.py": {
+      "size": 244,
+      "type": "file"
+    },
+    "task_generator_06.py": {
+      "size": 288,
+      "type": "file"
+    },
+    "task_generator_07.py": {
+      "size": 324,
+      "type": "file"
+    },
+    "task_generator_08.py": {
+      "size": 192,
+      "type": "file"
+    },
+    "task_iterator_01.py": {
+      "size": 247,
+      "type": "file"
+    },
+    "task_iterator_02.py": {
+      "size": 232,
+      "type": "file"
+    },
+    "task_iterator_03.py": {
+      "size": 217,
+      "type": "file"
+    },
+    "task_iterator_04.py": {
+      "size": 213,
+      "type": "file"
+    },
+    "task_oneline_01.py": {
+      "size": 53,
+      "type": "file"
+    },
+    "task_oneline_02.py": {
+      "size": 70,
+      "type": "file"
+    },
+    "task_oneline_03.py": {
+      "size": 225,
+      "type": "file"
+    },
+    "task_oneline_04.py": {
+      "size": 301,
+      "type": "file"
+    },
+    "task_oneline_05.py": {
+      "size": 184,
+      "type": "file"
+    },
+    "task_oneline_06.py": {
+      "size": 135,
+      "type": "file"
+    },
+    "task_oneline_07.py": {
+      "size": 142,
+      "type": "file"
+    },
+    "task_oneline_08.py": {
+      "size": 87,
+      "type": "file"
+    },
+    "task_oneline_09.py": {
+      "size": 172,
+      "type": "file"
+    },
+    "task_oneline_10.py": {
+      "size": 122,
+      "type": "file"
+    },
+    "task_yield_01.py": {
+      "size": 236,
+      "type": "file"
+    },
+    "task_yield_02.py": {
+      "size": 191,
+      "type": "file"
+    },
+    "task_yield_03.py": {
+      "size": 286,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_06": {
+    "mathematical": {
+      "size": 3500,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 574,
+      "type": "directory"
+    },
+    "lesson_task_01.py": {
+      "size": 70,
+      "type": "file"
+    },
+    "lesson_task_02.py": {
+      "size": 67,
+      "type": "file"
+    },
+    "lesson_task_03.py": {
+      "size": 232,
+      "type": "file"
+    },
+    "random_.py": {
+      "size": 72,
+      "type": "file"
+    },
+    "super_module.py": {
+      "size": 288,
+      "type": "file"
+    },
+    "task_builtins_01.py": {
+      "size": 31,
+      "type": "file"
+    },
+    "task_builtins_02.py": {
+      "size": 68,
+      "type": "file"
+    },
+    "task_builtins_03.py": {
+      "size": 484,
+      "type": "file"
+    },
+    "task_import_01.py": {
+      "size": 87,
+      "type": "file"
+    },
+    "task_import_02.py": {
+      "size": 46,
+      "type": "file"
+    },
+    "task_import_03.py": {
+      "size": 70,
+      "type": "file"
+    },
+    "task_import_04.py": {
+      "size": 99,
+      "type": "file"
+    },
+    "task_import_05.py": {
+      "size": 254,
+      "type": "file"
+    },
+    "task_import_06.py": {
+      "size": 351,
+      "type": "file"
+    },
+    "task_module_01.py": {
+      "size": 194,
+      "type": "file"
+    },
+    "task_module_02.py": {
+      "size": 74,
+      "type": "file"
+    },
+    "task_module_03.py": {
+      "size": 135,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_06\\mathematical": {
+    "__pycache__": {
+      "size": 2164,
+      "type": "directory"
+    },
+    "advanced_math.py": {
+      "size": 495,
+      "type": "file"
+    },
+    "base_math.py": {
+      "size": 841,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_06\\mathematical\\__pycache__": {
+    "advanced_math.cpython-310.pyc": {
+      "size": 775,
+      "type": "file"
+    },
+    "base_math.cpython-310.pyc": {
+      "size": 1215,
+      "type": "file"
+    },
+    "__init__.cpython-310.pyc": {
+      "size": 174,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_06\\__pycache__": {
+    "super_module.cpython-310.pyc": {
+      "size": 574,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_07": {
+    "dir": {
+      "size": 0,
+      "type": "directory"
+    },
+    "new_os_dir": {
+      "size": 0,
+      "type": "directory"
+    },
+    "new_path_dir": {
+      "size": 0,
+      "type": "directory"
+    },
+    "bin_data": {
+      "size": 1200,
+      "type": "file"
+    },
+    "data.bin": {
+      "size": 100,
+      "type": "file"
+    },
+    "data.txt": {
+      "size": 18,
+      "type": "file"
+    },
+    "lesson_task_01.py": {
+      "size": 284,
+      "type": "file"
+    },
+    "lesson_task_02.py": {
+      "size": 330,
+      "type": "file"
+    },
+    "new_data.txt": {
+      "size": 64,
+      "type": "file"
+    },
+    "task_files_01.py": {
+      "size": 58,
+      "type": "file"
+    },
+    "task_files_02.py": {
+      "size": 76,
+      "type": "file"
+    },
+    "task_files_03.py": {
+      "size": 105,
+      "type": "file"
+    },
+    "task_files_04.py": {
+      "size": 75,
+      "type": "file"
+    },
+    "task_files_05.py": {
+      "size": 385,
+      "type": "file"
+    },
+    "task_files_06.py": {
+      "size": 153,
+      "type": "file"
+    },
+    "task_files_07.py": {
+      "size": 248,
+      "type": "file"
+    },
+    "task_files_08.py": {
+      "size": 258,
+      "type": "file"
+    },
+    "task_files_09.py": {
+      "size": 77,
+      "type": "file"
+    },
+    "task_files_10.py": {
+      "size": 207,
+      "type": "file"
+    },
+    "task_files_11.py": {
+      "size": 121,
+      "type": "file"
+    },
+    "task_files_12.py": {
+      "size": 109,
+      "type": "file"
+    },
+    "task_files_13.py": {
+      "size": 125,
+      "type": "file"
+    },
+    "task_files_14.py": {
+      "size": 106,
+      "type": "file"
+    },
+    "task_files_15.py": {
+      "size": 154,
+      "type": "file"
+    },
+    "task_files_16.py": {
+      "size": 189,
+      "type": "file"
+    },
+    "task_files_17.py": {
+      "size": 395,
+      "type": "file"
+    },
+    "task_files_18.py": {
+      "size": 402,
+      "type": "file"
+    },
+    "task_files_19.py": {
+      "size": 334,
+      "type": "file"
+    },
+    "task_files_20.py": {
+      "size": 351,
+      "type": "file"
+    },
+    "task_files_21.py": {
+      "size": 366,
+      "type": "file"
+    },
+    "task_files_22.py": {
+      "size": 481,
+      "type": "file"
+    },
+    "task_files_23.py": {
+      "size": 497,
+      "type": "file"
+    },
+    "task_files_24.py": {
+      "size": 203,
+      "type": "file"
+    },
+    "task_files_25.py": {
+      "size": 97,
+      "type": "file"
+    },
+    "task_fs_01.py": {
+      "size": 78,
+      "type": "file"
+    },
+    "task_fs_02.py": {
+      "size": 136,
+      "type": "file"
+    },
+    "task_fs_03.py": {
+      "size": 93,
+      "type": "file"
+    },
+    "task_fs_04.py": {
+      "size": 201,
+      "type": "file"
+    },
+    "task_fs_05.py": {
+      "size": 187,
+      "type": "file"
+    },
+    "task_fs_06.py": {
+      "size": 145,
+      "type": "file"
+    },
+    "task_fs_07.py": {
+      "size": 212,
+      "type": "file"
+    },
+    "task_fs_08.py": {
+      "size": 125,
+      "type": "file"
+    },
+    "task_fs_09.py": {
+      "size": 466,
+      "type": "file"
+    },
+    "task_fs_10.py": {
+      "size": 135,
+      "type": "file"
+    },
+    "task_fs_11.py": {
+      "size": 180,
+      "type": "file"
+    },
+    "task_fs_12.py": {
+      "size": 219,
+      "type": "file"
+    },
+    "task_fs_13.py": {
+      "size": 80,
+      "type": "file"
+    },
+    "task_fs_14.py": {
+      "size": 57,
+      "type": "file"
+    },
+    "task_fs_15.py": {
+      "size": 39,
+      "type": "file"
+    },
+    "task_fs_16.py": {
+      "size": 118,
+      "type": "file"
+    },
+    "text_data.txt": {
+      "size": 529,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_07\\dir": {},
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_07\\new_os_dir": {},
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_07\\new_path_dir": {},
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\lesson_08": {
+    "biostats.csv": {
+      "size": 520,
+      "type": "file"
+    },
+    "biostats_new.csv": {
+      "size": 52,
+      "type": "file"
+    },
+    "biostats_tab.csv": {
+      "size": 442,
+      "type": "file"
+    },
+    "lesson_task_01.py": {
+      "size": 148,
+      "type": "file"
+    },
+    "lesson_task_02.py": {
+      "size": 476,
+      "type": "file"
+    },
+    "lesson_task_03.py": {
+      "size": 268,
+      "type": "file"
+    },
+    "my_dict.pickle": {
+      "size": 179,
+      "type": "file"
+    },
+    "new_biostats.csv": {
+      "size": 49,
+      "type": "file"
+    },
+    "new_user.json": {
+      "size": 264,
+      "type": "file"
+    },
+    "quest.csv": {
+      "size": 244,
+      "type": "file"
+    },
+    "quest.pickle": {
+      "size": 407,
+      "type": "file"
+    },
+    "task_csv_01.py": {
+      "size": 165,
+      "type": "file"
+    },
+    "task_csv_02.py": {
+      "size": 220,
+      "type": "file"
+    },
+    "task_csv_03.py": {
+      "size": 665,
+      "type": "file"
+    },
+    "task_csv_04.py": {
+      "size": 398,
+      "type": "file"
+    },
+    "task_csv_05.py": {
+      "size": 370,
+      "type": "file"
+    },
+    "task_csv_06.py": {
+      "size": 918,
+      "type": "file"
+    },
+    "task_json_01.py": {
+      "size": 261,
+      "type": "file"
+    },
+    "task_json_02.py": {
+      "size": 848,
+      "type": "file"
+    },
+    "task_json_03.py": {
+      "size": 545,
+      "type": "file"
+    },
+    "task_json_04.py": {
+      "size": 126,
+      "type": "file"
+    },
+    "task_json_05.py": {
+      "size": 583,
+      "type": "file"
+    },
+    "task_json_06.py": {
+      "size": 667,
+      "type": "file"
+    },
+    "task_json_07.py": {
+      "size": 380,
+      "type": "file"
+    },
+    "task_pickle_01.py": {
+      "size": 145,
+      "type": "file"
+    },
+    "task_pickle_02.py": {
+      "size": 536,
+      "type": "file"
+    },
+    "task_pickle_03.py": {
+      "size": 271,
+      "type": "file"
+    },
+    "task_pickle_04.py": {
+      "size": 845,
+      "type": "file"
+    },
+    "task_pickle_05.py": {
+      "size": 212,
+      "type": "file"
+    },
+    "user.json": {
+      "size": 573,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib": {
+    "site-packages": {
+      "size": 16858296,
+      "type": "directory"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages": {
+    "certifi": {
+      "size": 282396,
+      "type": "directory"
+    },
+    "certifi-2022.12.7.dist-info": {
+      "size": 5079,
+      "type": "directory"
+    },
+    "charset_normalizer": {
+      "size": 345841,
+      "type": "directory"
+    },
+    "charset_normalizer-3.0.1.dist-info": {
+      "size": 31722,
+      "type": "directory"
+    },
+    "click": {
+      "size": 633644,
+      "type": "directory"
+    },
+    "click-8.1.3.dist-info": {
+      "size": 7304,
+      "type": "directory"
+    },
+    "colorama": {
+      "size": 110568,
+      "type": "directory"
+    },
+    "colorama-0.4.6.dist-info": {
+      "size": 20919,
+      "type": "directory"
+    },
+    "flask": {
+      "size": 640943,
+      "type": "directory"
+    },
+    "Flask-2.2.3.dist-info": {
+      "size": 8940,
+      "type": "directory"
+    },
+    "idna": {
+      "size": 463372,
+      "type": "directory"
+    },
+    "idna-3.4.dist-info": {
+      "size": 12808,
+      "type": "directory"
+    },
+    "importlib_metadata": {
+      "size": 92108,
+      "type": "directory"
+    },
+    "importlib_metadata-6.0.0.dist-info": {
+      "size": 18383,
+      "type": "directory"
+    },
+    "itsdangerous": {
+      "size": 71512,
+      "type": "directory"
+    },
+    "itsdangerous-2.1.2.dist-info": {
+      "size": 6150,
+      "type": "directory"
+    },
+    "jinja2": {
+      "size": 908488,
+      "type": "directory"
+    },
+    "Jinja2-3.1.2.dist-info": {
+      "size": 8852,
+      "type": "directory"
+    },
+    "markupsafe": {
+      "size": 47680,
+      "type": "directory"
+    },
+    "MarkupSafe-2.1.2.dist-info": {
+      "size": 6031,
+      "type": "directory"
+    },
+    "pip": {
+      "size": 7843777,
+      "type": "directory"
+    },
+    "pip-21.1.2.dist-info": {
+      "size": 63641,
+      "type": "directory"
+    },
+    "pkg_resources": {
+      "size": 461424,
+      "type": "directory"
+    },
+    "requests": {
+      "size": 326295,
+      "type": "directory"
+    },
+    "requests-2.28.2.dist-info": {
+      "size": 17699,
+      "type": "directory"
+    },
+    "setuptools": {
+      "size": 2013431,
+      "type": "directory"
+    },
+    "setuptools-57.0.0.dist-info": {
+      "size": 31104,
+      "type": "directory"
+    },
+    "urllib3": {
+      "size": 687209,
+      "type": "directory"
+    },
+    "urllib3-1.26.14.dist-info": {
+      "size": 54706,
+      "type": "directory"
+    },
+    "werkzeug": {
+      "size": 1477525,
+      "type": "directory"
+    },
+    "Werkzeug-2.2.3.dist-info": {
+      "size": 12875,
+      "type": "directory"
+    },
+    "wheel": {
+      "size": 96021,
+      "type": "directory"
+    },
+    "wheel-0.36.2.dist-info": {
+      "size": 6270,
+      "type": "directory"
+    },
+    "zipp": {
+      "size": 24218,
+      "type": "directory"
+    },
+    "zipp-3.14.0.dist-info": {
+      "size": 5601,
+      "type": "directory"
+    },
+    "_distutils_hack": {
+      "size": 3732,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 4066,
+      "type": "directory"
+    },
+    "distutils-precedence.pth": {
+      "size": 152,
+      "type": "file"
+    },
+    "pip-21.1.2.virtualenv": {
+      "size": 0,
+      "type": "file"
+    },
+    "setuptools-57.0.0.virtualenv": {
+      "size": 0,
+      "type": "file"
+    },
+    "wheel-0.36.2.virtualenv": {
+      "size": 0,
+      "type": "file"
+    },
+    "_virtualenv.pth": {
+      "size": 18,
+      "type": "file"
+    },
+    "_virtualenv.py": {
+      "size": 5792,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\certifi": {
+    "__pycache__": {
+      "size": 2607,
+      "type": "directory"
+    },
+    "cacert.pem": {
+      "size": 275233,
+      "type": "file"
+    },
+    "core.py": {
+      "size": 4219,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 94,
+      "type": "file"
+    },
+    "__main__.py": {
+      "size": 243,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\certifi\\__pycache__": {
+    "core.cpython-39.pyc": {
+      "size": 1895,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 288,
+      "type": "file"
+    },
+    "__main__.cpython-39.pyc": {
+      "size": 424,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\certifi-2022.12.7.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE": {
+      "size": 1052,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 2911,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 1012,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 8,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\charset_normalizer": {
+    "assets": {
+      "size": 31065,
+      "type": "directory"
+    },
+    "cli": {
+      "size": 16723,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 72871,
+      "type": "directory"
+    },
+    "api.py": {
+      "size": 19154,
+      "type": "file"
+    },
+    "cd.py": {
+      "size": 12946,
+      "type": "file"
+    },
+    "constant.py": {
+      "size": 19596,
+      "type": "file"
+    },
+    "legacy.py": {
+      "size": 1695,
+      "type": "file"
+    },
+    "md.cp39-win_amd64.pyd": {
+      "size": 10752,
+      "type": "file"
+    },
+    "md.py": {
+      "size": 18829,
+      "type": "file"
+    },
+    "md__mypyc.cp39-win_amd64.pyd": {
+      "size": 116736,
+      "type": "file"
+    },
+    "models.py": {
+      "size": 11829,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 11966,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 85,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1594,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\charset_normalizer\\assets": {
+    "__pycache__": {
+      "size": 9556,
+      "type": "directory"
+    },
+    "__init__.py": {
+      "size": 21509,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\charset_normalizer\\assets\\__pycache__": {
+    "__init__.cpython-39.pyc": {
+      "size": 9556,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\charset_normalizer\\cli": {
+    "__pycache__": {
+      "size": 6679,
+      "type": "directory"
+    },
+    "normalizer.py": {
+      "size": 10044,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\charset_normalizer\\cli\\__pycache__": {
+    "normalizer.cpython-39.pyc": {
+      "size": 6489,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 190,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\charset_normalizer\\__pycache__": {
+    "api.cpython-39.pyc": {
+      "size": 10381,
+      "type": "file"
+    },
+    "cd.cpython-39.pyc": {
+      "size": 9677,
+      "type": "file"
+    },
+    "constant.cpython-39.pyc": {
+      "size": 13965,
+      "type": "file"
+    },
+    "legacy.cpython-39.pyc": {
+      "size": 1426,
+      "type": "file"
+    },
+    "md.cpython-39.pyc": {
+      "size": 15128,
+      "type": "file"
+    },
+    "models.cpython-39.pyc": {
+      "size": 11445,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 9020,
+      "type": "file"
+    },
+    "version.cpython-39.pyc": {
+      "size": 270,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1559,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\charset_normalizer-3.0.1.dist-info": {
+    "entry_points.txt": {
+      "size": 76,
+      "type": "file"
+    },
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE": {
+      "size": 1090,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 27664,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 2769,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 19,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 100,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\click": {
+    "__pycache__": {
+      "size": 293099,
+      "type": "directory"
+    },
+    "core.py": {
+      "size": 112782,
+      "type": "file"
+    },
+    "decorators.py": {
+      "size": 16350,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 9167,
+      "type": "file"
+    },
+    "formatting.py": {
+      "size": 9706,
+      "type": "file"
+    },
+    "globals.py": {
+      "size": 1961,
+      "type": "file"
+    },
+    "parser.py": {
+      "size": 19044,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "shell_completion.py": {
+      "size": 18018,
+      "type": "file"
+    },
+    "termui.py": {
+      "size": 28355,
+      "type": "file"
+    },
+    "testing.py": {
+      "size": 16063,
+      "type": "file"
+    },
+    "types.py": {
+      "size": 35805,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 18682,
+      "type": "file"
+    },
+    "_compat.py": {
+      "size": 18810,
+      "type": "file"
+    },
+    "_termui_impl.py": {
+      "size": 23451,
+      "type": "file"
+    },
+    "_textwrap.py": {
+      "size": 1353,
+      "type": "file"
+    },
+    "_winconsole.py": {
+      "size": 7860,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 3138,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\click\\__pycache__": {
+    "core.cpython-39.pyc": {
+      "size": 89659,
+      "type": "file"
+    },
+    "decorators.cpython-39.pyc": {
+      "size": 15571,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 10132,
+      "type": "file"
+    },
+    "formatting.cpython-39.pyc": {
+      "size": 9412,
+      "type": "file"
+    },
+    "globals.cpython-39.pyc": {
+      "size": 2424,
+      "type": "file"
+    },
+    "parser.cpython-39.pyc": {
+      "size": 13567,
+      "type": "file"
+    },
+    "shell_completion.cpython-39.pyc": {
+      "size": 16728,
+      "type": "file"
+    },
+    "termui.cpython-39.pyc": {
+      "size": 25946,
+      "type": "file"
+    },
+    "testing.cpython-39.pyc": {
+      "size": 15138,
+      "type": "file"
+    },
+    "types.cpython-39.pyc": {
+      "size": 32955,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 17574,
+      "type": "file"
+    },
+    "_compat.cpython-39.pyc": {
+      "size": 16056,
+      "type": "file"
+    },
+    "_termui_impl.cpython-39.pyc": {
+      "size": 16003,
+      "type": "file"
+    },
+    "_textwrap.cpython-39.pyc": {
+      "size": 1533,
+      "type": "file"
+    },
+    "_winconsole.cpython-39.pyc": {
+      "size": 7784,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 2617,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\click-8.1.3.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.rst": {
+      "size": 1475,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 3247,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 2480,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 6,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\colorama": {
+    "tests": {
+      "size": 56092,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 23920,
+      "type": "directory"
+    },
+    "ansi.py": {
+      "size": 2522,
+      "type": "file"
+    },
+    "ansitowin32.py": {
+      "size": 11128,
+      "type": "file"
+    },
+    "initialise.py": {
+      "size": 3325,
+      "type": "file"
+    },
+    "win32.py": {
+      "size": 6181,
+      "type": "file"
+    },
+    "winterm.py": {
+      "size": 7134,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 266,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\colorama\\tests": {
+    "__pycache__": {
+      "size": 29105,
+      "type": "directory"
+    },
+    "ansitowin32_test.py": {
+      "size": 10678,
+      "type": "file"
+    },
+    "ansi_test.py": {
+      "size": 2839,
+      "type": "file"
+    },
+    "initialise_test.py": {
+      "size": 6741,
+      "type": "file"
+    },
+    "isatty_test.py": {
+      "size": 1866,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 1079,
+      "type": "file"
+    },
+    "winterm_test.py": {
+      "size": 3709,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 75,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\colorama\\tests\\__pycache__": {
+    "ansitowin32_test.cpython-39.pyc": {
+      "size": 11545,
+      "type": "file"
+    },
+    "ansi_test.cpython-39.pyc": {
+      "size": 2542,
+      "type": "file"
+    },
+    "initialise_test.cpython-39.pyc": {
+      "size": 7074,
+      "type": "file"
+    },
+    "isatty_test.cpython-39.pyc": {
+      "size": 2795,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 1650,
+      "type": "file"
+    },
+    "winterm_test.cpython-39.pyc": {
+      "size": 3317,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 182,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\colorama\\__pycache__": {
+    "ansi.cpython-39.pyc": {
+      "size": 3212,
+      "type": "file"
+    },
+    "ansitowin32.cpython-39.pyc": {
+      "size": 8290,
+      "type": "file"
+    },
+    "initialise.cpython-39.pyc": {
+      "size": 2263,
+      "type": "file"
+    },
+    "win32.cpython-39.pyc": {
+      "size": 4445,
+      "type": "file"
+    },
+    "winterm.cpython-39.pyc": {
+      "size": 5248,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 462,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\colorama-0.4.6.dist-info": {
+    "licenses": {
+      "size": 1491,
+      "type": "directory"
+    },
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 17158,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 2161,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 105,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\colorama-0.4.6.dist-info\\licenses": {
+    "LICENSE.txt": {
+      "size": 1491,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\flask": {
+    "json": {
+      "size": 62896,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 264139,
+      "type": "directory"
+    },
+    "app.py": {
+      "size": 99107,
+      "type": "file"
+    },
+    "blueprints.py": {
+      "size": 27266,
+      "type": "file"
+    },
+    "cli.py": {
+      "size": 33532,
+      "type": "file"
+    },
+    "config.py": {
+      "size": 12585,
+      "type": "file"
+    },
+    "ctx.py": {
+      "size": 14829,
+      "type": "file"
+    },
+    "debughelpers.py": {
+      "size": 5511,
+      "type": "file"
+    },
+    "globals.py": {
+      "size": 3187,
+      "type": "file"
+    },
+    "helpers.py": {
+      "size": 25280,
+      "type": "file"
+    },
+    "logging.py": {
+      "size": 2293,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "scaffold.py": {
+      "size": 35958,
+      "type": "file"
+    },
+    "sessions.py": {
+      "size": 15847,
+      "type": "file"
+    },
+    "signals.py": {
+      "size": 2136,
+      "type": "file"
+    },
+    "templating.py": {
+      "size": 7419,
+      "type": "file"
+    },
+    "testing.py": {
+      "size": 10602,
+      "type": "file"
+    },
+    "typing.py": {
+      "size": 2969,
+      "type": "file"
+    },
+    "views.py": {
+      "size": 6765,
+      "type": "file"
+    },
+    "wrappers.py": {
+      "size": 5702,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 2890,
+      "type": "file"
+    },
+    "__main__.py": {
+      "size": 30,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\flask\\json": {
+    "__pycache__": {
+      "size": 32190,
+      "type": "directory"
+    },
+    "provider.py": {
+      "size": 10674,
+      "type": "file"
+    },
+    "tag.py": {
+      "size": 8857,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 11175,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\flask\\json\\__pycache__": {
+    "provider.cpython-39.pyc": {
+      "size": 9221,
+      "type": "file"
+    },
+    "tag.cpython-39.pyc": {
+      "size": 11464,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 11505,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\flask\\__pycache__": {
+    "app.cpython-39.pyc": {
+      "size": 75416,
+      "type": "file"
+    },
+    "blueprints.cpython-39.pyc": {
+      "size": 25037,
+      "type": "file"
+    },
+    "cli.cpython-39.pyc": {
+      "size": 26674,
+      "type": "file"
+    },
+    "config.cpython-39.pyc": {
+      "size": 12446,
+      "type": "file"
+    },
+    "ctx.cpython-39.pyc": {
+      "size": 14476,
+      "type": "file"
+    },
+    "debughelpers.cpython-39.pyc": {
+      "size": 5930,
+      "type": "file"
+    },
+    "globals.cpython-39.pyc": {
+      "size": 3315,
+      "type": "file"
+    },
+    "helpers.cpython-39.pyc": {
+      "size": 23956,
+      "type": "file"
+    },
+    "logging.cpython-39.pyc": {
+      "size": 2449,
+      "type": "file"
+    },
+    "scaffold.cpython-39.pyc": {
+      "size": 27381,
+      "type": "file"
+    },
+    "sessions.cpython-39.pyc": {
+      "size": 13631,
+      "type": "file"
+    },
+    "signals.cpython-39.pyc": {
+      "size": 2369,
+      "type": "file"
+    },
+    "templating.cpython-39.pyc": {
+      "size": 6999,
+      "type": "file"
+    },
+    "testing.cpython-39.pyc": {
+      "size": 9325,
+      "type": "file"
+    },
+    "typing.cpython-39.pyc": {
+      "size": 1676,
+      "type": "file"
+    },
+    "views.cpython-39.pyc": {
+      "size": 5367,
+      "type": "file"
+    },
+    "wrappers.cpython-39.pyc": {
+      "size": 5090,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 2389,
+      "type": "file"
+    },
+    "__main__.cpython-39.pyc": {
+      "size": 213,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\Flask-2.2.3.dist-info": {
+    "entry_points.txt": {
+      "size": 41,
+      "type": "file"
+    },
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.rst": {
+      "size": 1475,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 3889,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 3433,
+      "type": "file"
+    },
+    "REQUESTED": {
+      "size": 0,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 6,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\idna": {
+    "__pycache__": {
+      "size": 193062,
+      "type": "directory"
+    },
+    "codec.py": {
+      "size": 3374,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 321,
+      "type": "file"
+    },
+    "core.py": {
+      "size": 12950,
+      "type": "file"
+    },
+    "idnadata.py": {
+      "size": 44375,
+      "type": "file"
+    },
+    "intranges.py": {
+      "size": 1881,
+      "type": "file"
+    },
+    "package_data.py": {
+      "size": 21,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "uts46data.py": {
+      "size": 206539,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 849,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\idna\\__pycache__": {
+    "codec.cpython-39.pyc": {
+      "size": 3068,
+      "type": "file"
+    },
+    "compat.cpython-39.pyc": {
+      "size": 750,
+      "type": "file"
+    },
+    "core.cpython-39.pyc": {
+      "size": 9862,
+      "type": "file"
+    },
+    "idnadata.cpython-39.pyc": {
+      "size": 23185,
+      "type": "file"
+    },
+    "intranges.cpython-39.pyc": {
+      "size": 1981,
+      "type": "file"
+    },
+    "package_data.cpython-39.pyc": {
+      "size": 195,
+      "type": "file"
+    },
+    "uts46data.cpython-39.pyc": {
+      "size": 153190,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 831,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\idna-3.4.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.md": {
+      "size": 1523,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 9830,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 1370,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 81,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\importlib_metadata": {
+    "__pycache__": {
+      "size": 51172,
+      "type": "directory"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "_adapters.py": {
+      "size": 2454,
+      "type": "file"
+    },
+    "_collections.py": {
+      "size": 743,
+      "type": "file"
+    },
+    "_compat.py": {
+      "size": 1857,
+      "type": "file"
+    },
+    "_functools.py": {
+      "size": 2895,
+      "type": "file"
+    },
+    "_itertools.py": {
+      "size": 2068,
+      "type": "file"
+    },
+    "_meta.py": {
+      "size": 1165,
+      "type": "file"
+    },
+    "_py39compat.py": {
+      "size": 1098,
+      "type": "file"
+    },
+    "_text.py": {
+      "size": 2166,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 26490,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\importlib_metadata\\__pycache__": {
+    "_adapters.cpython-39.pyc": {
+      "size": 2958,
+      "type": "file"
+    },
+    "_collections.cpython-39.pyc": {
+      "size": 1556,
+      "type": "file"
+    },
+    "_compat.cpython-39.pyc": {
+      "size": 2040,
+      "type": "file"
+    },
+    "_functools.cpython-39.pyc": {
+      "size": 3146,
+      "type": "file"
+    },
+    "_itertools.cpython-39.pyc": {
+      "size": 2023,
+      "type": "file"
+    },
+    "_meta.cpython-39.pyc": {
+      "size": 2456,
+      "type": "file"
+    },
+    "_py39compat.cpython-39.pyc": {
+      "size": 1192,
+      "type": "file"
+    },
+    "_text.cpython-39.pyc": {
+      "size": 3089,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 32712,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\importlib_metadata-6.0.0.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE": {
+      "size": 11358,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 4958,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 1952,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 19,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\itsdangerous": {
+    "__pycache__": {
+      "size": 34474,
+      "type": "directory"
+    },
+    "encoding.py": {
+      "size": 1419,
+      "type": "file"
+    },
+    "exc.py": {
+      "size": 3206,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "serializer.py": {
+      "size": 11144,
+      "type": "file"
+    },
+    "signer.py": {
+      "size": 9367,
+      "type": "file"
+    },
+    "timed.py": {
+      "size": 8174,
+      "type": "file"
+    },
+    "url_safe.py": {
+      "size": 2402,
+      "type": "file"
+    },
+    "_json.py": {
+      "size": 450,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 876,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\itsdangerous\\__pycache__": {
+    "encoding.cpython-39.pyc": {
+      "size": 1879,
+      "type": "file"
+    },
+    "exc.cpython-39.pyc": {
+      "size": 3435,
+      "type": "file"
+    },
+    "serializer.cpython-39.pyc": {
+      "size": 9743,
+      "type": "file"
+    },
+    "signer.cpython-39.pyc": {
+      "size": 8434,
+      "type": "file"
+    },
+    "timed.cpython-39.pyc": {
+      "size": 6480,
+      "type": "file"
+    },
+    "url_safe.cpython-39.pyc": {
+      "size": 2715,
+      "type": "file"
+    },
+    "_json.cpython-39.pyc": {
+      "size": 922,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 866,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\itsdangerous-2.1.2.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.rst": {
+      "size": 1475,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 2928,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 1638,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 13,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\jinja2": {
+    "__pycache__": {
+      "size": 425916,
+      "type": "directory"
+    },
+    "async_utils.py": {
+      "size": 2472,
+      "type": "file"
+    },
+    "bccache.py": {
+      "size": 14061,
+      "type": "file"
+    },
+    "compiler.py": {
+      "size": 72172,
+      "type": "file"
+    },
+    "constants.py": {
+      "size": 1433,
+      "type": "file"
+    },
+    "debug.py": {
+      "size": 6299,
+      "type": "file"
+    },
+    "defaults.py": {
+      "size": 1267,
+      "type": "file"
+    },
+    "environment.py": {
+      "size": 61349,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 5071,
+      "type": "file"
+    },
+    "ext.py": {
+      "size": 31502,
+      "type": "file"
+    },
+    "filters.py": {
+      "size": 53509,
+      "type": "file"
+    },
+    "idtracking.py": {
+      "size": 10704,
+      "type": "file"
+    },
+    "lexer.py": {
+      "size": 29726,
+      "type": "file"
+    },
+    "loaders.py": {
+      "size": 23207,
+      "type": "file"
+    },
+    "meta.py": {
+      "size": 4396,
+      "type": "file"
+    },
+    "nativetypes.py": {
+      "size": 4226,
+      "type": "file"
+    },
+    "nodes.py": {
+      "size": 34550,
+      "type": "file"
+    },
+    "optimizer.py": {
+      "size": 1650,
+      "type": "file"
+    },
+    "parser.py": {
+      "size": 39595,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "runtime.py": {
+      "size": 33476,
+      "type": "file"
+    },
+    "sandbox.py": {
+      "size": 14584,
+      "type": "file"
+    },
+    "tests.py": {
+      "size": 5905,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 23965,
+      "type": "file"
+    },
+    "visitor.py": {
+      "size": 3568,
+      "type": "file"
+    },
+    "_identifier.py": {
+      "size": 1958,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1927,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\jinja2\\__pycache__": {
+    "async_utils.cpython-39.pyc": {
+      "size": 2661,
+      "type": "file"
+    },
+    "bccache.cpython-39.pyc": {
+      "size": 13898,
+      "type": "file"
+    },
+    "compiler.cpython-39.pyc": {
+      "size": 54178,
+      "type": "file"
+    },
+    "constants.cpython-39.pyc": {
+      "size": 1538,
+      "type": "file"
+    },
+    "debug.cpython-39.pyc": {
+      "size": 3976,
+      "type": "file"
+    },
+    "defaults.cpython-39.pyc": {
+      "size": 1338,
+      "type": "file"
+    },
+    "environment.cpython-39.pyc": {
+      "size": 53106,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 5579,
+      "type": "file"
+    },
+    "ext.cpython-39.pyc": {
+      "size": 25534,
+      "type": "file"
+    },
+    "filters.cpython-39.pyc": {
+      "size": 50401,
+      "type": "file"
+    },
+    "idtracking.cpython-39.pyc": {
+      "size": 11088,
+      "type": "file"
+    },
+    "lexer.cpython-39.pyc": {
+      "size": 20264,
+      "type": "file"
+    },
+    "loaders.cpython-39.pyc": {
+      "size": 20433,
+      "type": "file"
+    },
+    "meta.cpython-39.pyc": {
+      "size": 3796,
+      "type": "file"
+    },
+    "nativetypes.cpython-39.pyc": {
+      "size": 4960,
+      "type": "file"
+    },
+    "nodes.cpython-39.pyc": {
+      "size": 40873,
+      "type": "file"
+    },
+    "optimizer.cpython-39.pyc": {
+      "size": 1927,
+      "type": "file"
+    },
+    "parser.cpython-39.pyc": {
+      "size": 27575,
+      "type": "file"
+    },
+    "runtime.cpython-39.pyc": {
+      "size": 32165,
+      "type": "file"
+    },
+    "sandbox.cpython-39.pyc": {
+      "size": 11918,
+      "type": "file"
+    },
+    "tests.cpython-39.pyc": {
+      "size": 6570,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 24538,
+      "type": "file"
+    },
+    "visitor.cpython-39.pyc": {
+      "size": 3921,
+      "type": "file"
+    },
+    "_identifier.cpython-39.pyc": {
+      "size": 2077,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1602,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\Jinja2-3.1.2.dist-info": {
+    "entry_points.txt": {
+      "size": 59,
+      "type": "file"
+    },
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.rst": {
+      "size": 1475,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 3539,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 3676,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 7,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\markupsafe": {
+    "__pycache__": {
+      "size": 12790,
+      "type": "directory"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "_native.py": {
+      "size": 1776,
+      "type": "file"
+    },
+    "_speedups.c": {
+      "size": 7403,
+      "type": "file"
+    },
+    "_speedups.cp39-win_amd64.pyd": {
+      "size": 15872,
+      "type": "file"
+    },
+    "_speedups.pyi": {
+      "size": 238,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 9601,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\markupsafe\\__pycache__": {
+    "_native.cpython-39.pyc": {
+      "size": 2008,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 10782,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\MarkupSafe-2.1.2.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.rst": {
+      "size": 1503,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 3320,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 1093,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 11,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 100,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip": {
+    "_internal": {
+      "size": 1566632,
+      "type": "directory"
+    },
+    "_vendor": {
+      "size": 6274707,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 586,
+      "type": "directory"
+    },
+    "py.typed": {
+      "size": 286,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 368,
+      "type": "file"
+    },
+    "__main__.py": {
+      "size": 1198,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal": {
+    "cli": {
+      "size": 160815,
+      "type": "directory"
+    },
+    "commands": {
+      "size": 125755,
+      "type": "directory"
+    },
+    "distributions": {
+      "size": 16567,
+      "type": "directory"
+    },
+    "index": {
+      "size": 111165,
+      "type": "directory"
+    },
+    "locations": {
+      "size": 30727,
+      "type": "directory"
+    },
+    "metadata": {
+      "size": 21734,
+      "type": "directory"
+    },
+    "models": {
+      "size": 65798,
+      "type": "directory"
+    },
+    "network": {
+      "size": 84085,
+      "type": "directory"
+    },
+    "operations": {
+      "size": 139293,
+      "type": "directory"
+    },
+    "req": {
+      "size": 179908,
+      "type": "directory"
+    },
+    "resolution": {
+      "size": 174892,
+      "type": "directory"
+    },
+    "utils": {
+      "size": 219359,
+      "type": "directory"
+    },
+    "vcs": {
+      "size": 104081,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 59808,
+      "type": "directory"
+    },
+    "build_env.py": {
+      "size": 9746,
+      "type": "file"
+    },
+    "cache.py": {
+      "size": 9958,
+      "type": "file"
+    },
+    "configuration.py": {
+      "size": 13725,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 13170,
+      "type": "file"
+    },
+    "main.py": {
+      "size": 351,
+      "type": "file"
+    },
+    "pyproject.py": {
+      "size": 7061,
+      "type": "file"
+    },
+    "self_outdated_check.py": {
+      "size": 6484,
+      "type": "file"
+    },
+    "wheel_builder.py": {
+      "size": 11740,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 410,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\cli": {
+    "__pycache__": {
+      "size": 69633,
+      "type": "directory"
+    },
+    "autocompletion.py": {
+      "size": 6350,
+      "type": "file"
+    },
+    "base_command.py": {
+      "size": 7741,
+      "type": "file"
+    },
+    "cmdoptions.py": {
+      "size": 28999,
+      "type": "file"
+    },
+    "command_context.py": {
+      "size": 815,
+      "type": "file"
+    },
+    "main.py": {
+      "size": 2483,
+      "type": "file"
+    },
+    "main_parser.py": {
+      "size": 2642,
+      "type": "file"
+    },
+    "parser.py": {
+      "size": 11097,
+      "type": "file"
+    },
+    "progress_bars.py": {
+      "size": 8576,
+      "type": "file"
+    },
+    "req_command.py": {
+      "size": 16884,
+      "type": "file"
+    },
+    "spinners.py": {
+      "size": 5347,
+      "type": "file"
+    },
+    "status_codes.py": {
+      "size": 116,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 132,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__pycache__": {
+    "autocompletion.cpython-39.pyc": {
+      "size": 4966,
+      "type": "file"
+    },
+    "base_command.cpython-39.pyc": {
+      "size": 5789,
+      "type": "file"
+    },
+    "cmdoptions.cpython-39.pyc": {
+      "size": 21023,
+      "type": "file"
+    },
+    "command_context.cpython-39.pyc": {
+      "size": 1217,
+      "type": "file"
+    },
+    "main.cpython-39.pyc": {
+      "size": 1317,
+      "type": "file"
+    },
+    "main_parser.cpython-39.pyc": {
+      "size": 2098,
+      "type": "file"
+    },
+    "parser.cpython-39.pyc": {
+      "size": 9362,
+      "type": "file"
+    },
+    "progress_bars.cpython-39.pyc": {
+      "size": 7434,
+      "type": "file"
+    },
+    "req_command.cpython-39.pyc": {
+      "size": 11207,
+      "type": "file"
+    },
+    "spinners.cpython-39.pyc": {
+      "size": 4605,
+      "type": "file"
+    },
+    "status_codes.cpython-39.pyc": {
+      "size": 347,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 268,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\commands": {
+    "__pycache__": {
+      "size": 22467,
+      "type": "directory"
+    },
+    "cache.py": {
+      "size": 7414,
+      "type": "file"
+    },
+    "check.py": {
+      "size": 1587,
+      "type": "file"
+    },
+    "completion.py": {
+      "size": 2951,
+      "type": "file"
+    },
+    "configuration.py": {
+      "size": 9206,
+      "type": "file"
+    },
+    "debug.py": {
+      "size": 6806,
+      "type": "file"
+    },
+    "download.py": {
+      "size": 4993,
+      "type": "file"
+    },
+    "freeze.py": {
+      "size": 3431,
+      "type": "file"
+    },
+    "hash.py": {
+      "size": 1713,
+      "type": "file"
+    },
+    "help.py": {
+      "size": 1149,
+      "type": "file"
+    },
+    "install.py": {
+      "size": 27135,
+      "type": "file"
+    },
+    "list.py": {
+      "size": 11331,
+      "type": "file"
+    },
+    "search.py": {
+      "size": 5598,
+      "type": "file"
+    },
+    "show.py": {
+      "size": 6866,
+      "type": "file"
+    },
+    "uninstall.py": {
+      "size": 3216,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 6233,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 3659,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__pycache__": {
+    "freeze.cpython-39.pyc": {
+      "size": 2914,
+      "type": "file"
+    },
+    "install.cpython-39.pyc": {
+      "size": 16692,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 2861,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\distributions": {
+    "__pycache__": {
+      "size": 8686,
+      "type": "directory"
+    },
+    "base.py": {
+      "size": 1245,
+      "type": "file"
+    },
+    "installed.py": {
+      "size": 667,
+      "type": "file"
+    },
+    "sdist.py": {
+      "size": 3900,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 1205,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 864,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__pycache__": {
+    "base.cpython-39.pyc": {
+      "size": 1820,
+      "type": "file"
+    },
+    "installed.cpython-39.pyc": {
+      "size": 1165,
+      "type": "file"
+    },
+    "sdist.cpython-39.pyc": {
+      "size": 3428,
+      "type": "file"
+    },
+    "wheel.cpython-39.pyc": {
+      "size": 1509,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 764,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\index": {
+    "__pycache__": {
+      "size": 49092,
+      "type": "directory"
+    },
+    "collector.py": {
+      "size": 18192,
+      "type": "file"
+    },
+    "package_finder.py": {
+      "size": 37294,
+      "type": "file"
+    },
+    "sources.py": {
+      "size": 6557,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 30,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__pycache__": {
+    "collector.cpython-39.pyc": {
+      "size": 15078,
+      "type": "file"
+    },
+    "package_finder.cpython-39.pyc": {
+      "size": 26605,
+      "type": "file"
+    },
+    "sources.cpython-39.pyc": {
+      "size": 7187,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 222,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\locations": {
+    "__pycache__": {
+      "size": 13252,
+      "type": "directory"
+    },
+    "base.py": {
+      "size": 1478,
+      "type": "file"
+    },
+    "_distutils.py": {
+      "size": 5212,
+      "type": "file"
+    },
+    "_sysconfig.py": {
+      "size": 5959,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 4826,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__pycache__": {
+    "base.cpython-39.pyc": {
+      "size": 1206,
+      "type": "file"
+    },
+    "_distutils.cpython-39.pyc": {
+      "size": 3875,
+      "type": "file"
+    },
+    "_sysconfig.cpython-39.pyc": {
+      "size": 4493,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 3678,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\metadata": {
+    "__pycache__": {
+      "size": 11265,
+      "type": "directory"
+    },
+    "base.py": {
+      "size": 4750,
+      "type": "file"
+    },
+    "pkg_resources.py": {
+      "size": 4248,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1471,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__pycache__": {
+    "base.cpython-39.pyc": {
+      "size": 5295,
+      "type": "file"
+    },
+    "pkg_resources.cpython-39.pyc": {
+      "size": 4249,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1721,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\models": {
+    "__pycache__": {
+      "size": 32080,
+      "type": "directory"
+    },
+    "candidate.py": {
+      "size": 1001,
+      "type": "file"
+    },
+    "direct_url.py": {
+      "size": 6555,
+      "type": "file"
+    },
+    "format_control.py": {
+      "size": 2629,
+      "type": "file"
+    },
+    "index.py": {
+      "size": 1092,
+      "type": "file"
+    },
+    "link.py": {
+      "size": 7472,
+      "type": "file"
+    },
+    "scheme.py": {
+      "size": 770,
+      "type": "file"
+    },
+    "search_scope.py": {
+      "size": 4613,
+      "type": "file"
+    },
+    "selection_prefs.py": {
+      "size": 1947,
+      "type": "file"
+    },
+    "target_python.py": {
+      "size": 3962,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 3614,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 63,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__pycache__": {
+    "candidate.cpython-39.pyc": {
+      "size": 1369,
+      "type": "file"
+    },
+    "direct_url.cpython-39.pyc": {
+      "size": 6282,
+      "type": "file"
+    },
+    "format_control.cpython-39.pyc": {
+      "size": 2526,
+      "type": "file"
+    },
+    "index.cpython-39.pyc": {
+      "size": 1179,
+      "type": "file"
+    },
+    "link.cpython-39.pyc": {
+      "size": 7183,
+      "type": "file"
+    },
+    "scheme.cpython-39.pyc": {
+      "size": 934,
+      "type": "file"
+    },
+    "search_scope.cpython-39.pyc": {
+      "size": 3335,
+      "type": "file"
+    },
+    "selection_prefs.cpython-39.pyc": {
+      "size": 1569,
+      "type": "file"
+    },
+    "target_python.cpython-39.pyc": {
+      "size": 3266,
+      "type": "file"
+    },
+    "wheel.cpython-39.pyc": {
+      "size": 4181,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 256,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\network": {
+    "__pycache__": {
+      "size": 33800,
+      "type": "directory"
+    },
+    "auth.py": {
+      "size": 11833,
+      "type": "file"
+    },
+    "cache.py": {
+      "size": 2213,
+      "type": "file"
+    },
+    "download.py": {
+      "size": 6243,
+      "type": "file"
+    },
+    "lazy_wheel.py": {
+      "size": 7924,
+      "type": "file"
+    },
+    "session.py": {
+      "size": 16247,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 4072,
+      "type": "file"
+    },
+    "xmlrpc.py": {
+      "size": 1703,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 50,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__pycache__": {
+    "auth.cpython-39.pyc": {
+      "size": 7041,
+      "type": "file"
+    },
+    "cache.cpython-39.pyc": {
+      "size": 2723,
+      "type": "file"
+    },
+    "download.cpython-39.pyc": {
+      "size": 5083,
+      "type": "file"
+    },
+    "lazy_wheel.cpython-39.pyc": {
+      "size": 7908,
+      "type": "file"
+    },
+    "session.cpython-39.pyc": {
+      "size": 9491,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 1310,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 244,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\operations": {
+    "build": {
+      "size": 14315,
+      "type": "directory"
+    },
+    "install": {
+      "size": 61135,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 23749,
+      "type": "directory"
+    },
+    "check.py": {
+      "size": 5245,
+      "type": "file"
+    },
+    "freeze.py": {
+      "size": 9999,
+      "type": "file"
+    },
+    "prepare.py": {
+      "size": 24850,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build": {
+    "__pycache__": {
+      "size": 6900,
+      "type": "directory"
+    },
+    "metadata.py": {
+      "size": 1165,
+      "type": "file"
+    },
+    "metadata_legacy.py": {
+      "size": 1917,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 1106,
+      "type": "file"
+    },
+    "wheel_legacy.py": {
+      "size": 3227,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__pycache__": {
+    "metadata.cpython-39.pyc": {
+      "size": 1144,
+      "type": "file"
+    },
+    "metadata_legacy.cpython-39.pyc": {
+      "size": 1918,
+      "type": "file"
+    },
+    "wheel.cpython-39.pyc": {
+      "size": 1123,
+      "type": "file"
+    },
+    "wheel_legacy.cpython-39.pyc": {
+      "size": 2517,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 198,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install": {
+    "__pycache__": {
+      "size": 25551,
+      "type": "directory"
+    },
+    "editable_legacy.py": {
+      "size": 1396,
+      "type": "file"
+    },
+    "legacy.py": {
+      "size": 4177,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 29960,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 51,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__pycache__": {
+    "editable_legacy.cpython-39.pyc": {
+      "size": 1299,
+      "type": "file"
+    },
+    "legacy.cpython-39.pyc": {
+      "size": 3187,
+      "type": "file"
+    },
+    "wheel.cpython-39.pyc": {
+      "size": 20809,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 256,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\__pycache__": {
+    "check.cpython-39.pyc": {
+      "size": 3688,
+      "type": "file"
+    },
+    "freeze.cpython-39.pyc": {
+      "size": 5641,
+      "type": "file"
+    },
+    "prepare.cpython-39.pyc": {
+      "size": 14228,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 192,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\req": {
+    "__pycache__": {
+      "size": 73954,
+      "type": "directory"
+    },
+    "constructors.py": {
+      "size": 16267,
+      "type": "file"
+    },
+    "req_file.py": {
+      "size": 18000,
+      "type": "file"
+    },
+    "req_install.py": {
+      "size": 33067,
+      "type": "file"
+    },
+    "req_set.py": {
+      "size": 7778,
+      "type": "file"
+    },
+    "req_tracker.py": {
+      "size": 4391,
+      "type": "file"
+    },
+    "req_uninstall.py": {
+      "size": 23468,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 2983,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__pycache__": {
+    "constructors.cpython-39.pyc": {
+      "size": 10999,
+      "type": "file"
+    },
+    "req_file.cpython-39.pyc": {
+      "size": 12432,
+      "type": "file"
+    },
+    "req_install.cpython-39.pyc": {
+      "size": 21030,
+      "type": "file"
+    },
+    "req_set.cpython-39.pyc": {
+      "size": 5676,
+      "type": "file"
+    },
+    "req_tracker.cpython-39.pyc": {
+      "size": 4021,
+      "type": "file"
+    },
+    "req_uninstall.cpython-39.pyc": {
+      "size": 17457,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 2339,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\resolution": {
+    "legacy": {
+      "size": 17934,
+      "type": "directory"
+    },
+    "resolvelib": {
+      "size": 155268,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 1127,
+      "type": "directory"
+    },
+    "base.py": {
+      "size": 563,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy": {
+    "resolver.py": {
+      "size": 17934,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib": {
+    "__pycache__": {
+      "size": 70189,
+      "type": "directory"
+    },
+    "base.py": {
+      "size": 5677,
+      "type": "file"
+    },
+    "candidates.py": {
+      "size": 19976,
+      "type": "file"
+    },
+    "factory.py": {
+      "size": 25446,
+      "type": "file"
+    },
+    "found_candidates.py": {
+      "size": 5410,
+      "type": "file"
+    },
+    "provider.py": {
+      "size": 7673,
+      "type": "file"
+    },
+    "reporter.py": {
+      "size": 2765,
+      "type": "file"
+    },
+    "requirements.py": {
+      "size": 6047,
+      "type": "file"
+    },
+    "resolver.py": {
+      "size": 12085,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__": {
+    "base.cpython-39.pyc": {
+      "size": 6305,
+      "type": "file"
+    },
+    "candidates.cpython-39.pyc": {
+      "size": 17885,
+      "type": "file"
+    },
+    "factory.cpython-39.pyc": {
+      "size": 16352,
+      "type": "file"
+    },
+    "found_candidates.cpython-39.pyc": {
+      "size": 4651,
+      "type": "file"
+    },
+    "provider.cpython-39.pyc": {
+      "size": 6571,
+      "type": "file"
+    },
+    "reporter.cpython-39.pyc": {
+      "size": 3135,
+      "type": "file"
+    },
+    "requirements.cpython-39.pyc": {
+      "size": 7040,
+      "type": "file"
+    },
+    "resolver.cpython-39.pyc": {
+      "size": 8047,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 203,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\__pycache__": {
+    "base.cpython-39.pyc": {
+      "size": 935,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 192,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\utils": {
+    "__pycache__": {
+      "size": 96516,
+      "type": "directory"
+    },
+    "appdirs.py": {
+      "size": 1222,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 1912,
+      "type": "file"
+    },
+    "compatibility_tags.py": {
+      "size": 5589,
+      "type": "file"
+    },
+    "datetime.py": {
+      "size": 255,
+      "type": "file"
+    },
+    "deprecation.py": {
+      "size": 3277,
+      "type": "file"
+    },
+    "direct_url_helpers.py": {
+      "size": 3935,
+      "type": "file"
+    },
+    "distutils_args.py": {
+      "size": 1262,
+      "type": "file"
+    },
+    "encoding.py": {
+      "size": 1190,
+      "type": "file"
+    },
+    "entrypoints.py": {
+      "size": 1066,
+      "type": "file"
+    },
+    "filesystem.py": {
+      "size": 6045,
+      "type": "file"
+    },
+    "filetypes.py": {
+      "size": 761,
+      "type": "file"
+    },
+    "glibc.py": {
+      "size": 3170,
+      "type": "file"
+    },
+    "hashes.py": {
+      "size": 5167,
+      "type": "file"
+    },
+    "inject_securetransport.py": {
+      "size": 810,
+      "type": "file"
+    },
+    "logging.py": {
+      "size": 12133,
+      "type": "file"
+    },
+    "misc.py": {
+      "size": 23315,
+      "type": "file"
+    },
+    "models.py": {
+      "size": 1329,
+      "type": "file"
+    },
+    "packaging.py": {
+      "size": 2900,
+      "type": "file"
+    },
+    "parallel.py": {
+      "size": 3224,
+      "type": "file"
+    },
+    "pkg_resources.py": {
+      "size": 1106,
+      "type": "file"
+    },
+    "setuptools_build.py": {
+      "size": 5047,
+      "type": "file"
+    },
+    "subprocess.py": {
+      "size": 10036,
+      "type": "file"
+    },
+    "temp_dir.py": {
+      "size": 7950,
+      "type": "file"
+    },
+    "unpacking.py": {
+      "size": 9032,
+      "type": "file"
+    },
+    "urls.py": {
+      "size": 1256,
+      "type": "file"
+    },
+    "virtualenv.py": {
+      "size": 3564,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 6290,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__": {
+    "appdirs.cpython-39.pyc": {
+      "size": 1252,
+      "type": "file"
+    },
+    "compat.cpython-39.pyc": {
+      "size": 1454,
+      "type": "file"
+    },
+    "compatibility_tags.cpython-39.pyc": {
+      "size": 3830,
+      "type": "file"
+    },
+    "deprecation.cpython-39.pyc": {
+      "size": 2753,
+      "type": "file"
+    },
+    "direct_url_helpers.cpython-39.pyc": {
+      "size": 2507,
+      "type": "file"
+    },
+    "distutils_args.cpython-39.pyc": {
+      "size": 1052,
+      "type": "file"
+    },
+    "encoding.cpython-39.pyc": {
+      "size": 1217,
+      "type": "file"
+    },
+    "filesystem.cpython-39.pyc": {
+      "size": 4926,
+      "type": "file"
+    },
+    "filetypes.cpython-39.pyc": {
+      "size": 799,
+      "type": "file"
+    },
+    "glibc.cpython-39.pyc": {
+      "size": 1609,
+      "type": "file"
+    },
+    "hashes.cpython-39.pyc": {
+      "size": 4991,
+      "type": "file"
+    },
+    "inject_securetransport.cpython-39.pyc": {
+      "size": 960,
+      "type": "file"
+    },
+    "logging.cpython-39.pyc": {
+      "size": 8911,
+      "type": "file"
+    },
+    "misc.cpython-39.pyc": {
+      "size": 21515,
+      "type": "file"
+    },
+    "models.cpython-39.pyc": {
+      "size": 1891,
+      "type": "file"
+    },
+    "packaging.cpython-39.pyc": {
+      "size": 2515,
+      "type": "file"
+    },
+    "pkg_resources.cpython-39.pyc": {
+      "size": 1713,
+      "type": "file"
+    },
+    "setuptools_build.cpython-39.pyc": {
+      "size": 2957,
+      "type": "file"
+    },
+    "subprocess.cpython-39.pyc": {
+      "size": 5680,
+      "type": "file"
+    },
+    "temp_dir.cpython-39.pyc": {
+      "size": 6831,
+      "type": "file"
+    },
+    "unpacking.cpython-39.pyc": {
+      "size": 6452,
+      "type": "file"
+    },
+    "urls.cpython-39.pyc": {
+      "size": 1343,
+      "type": "file"
+    },
+    "virtualenv.cpython-39.pyc": {
+      "size": 3210,
+      "type": "file"
+    },
+    "wheel.cpython-39.pyc": {
+      "size": 5961,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 187,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\vcs": {
+    "__pycache__": {
+      "size": 45112,
+      "type": "directory"
+    },
+    "bazaar.py": {
+      "size": 2962,
+      "type": "file"
+    },
+    "git.py": {
+      "size": 15431,
+      "type": "file"
+    },
+    "mercurial.py": {
+      "size": 5043,
+      "type": "file"
+    },
+    "subversion.py": {
+      "size": 11876,
+      "type": "file"
+    },
+    "versioncontrol.py": {
+      "size": 23086,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 571,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__pycache__": {
+    "bazaar.cpython-39.pyc": {
+      "size": 2996,
+      "type": "file"
+    },
+    "git.cpython-39.pyc": {
+      "size": 9972,
+      "type": "file"
+    },
+    "mercurial.cpython-39.pyc": {
+      "size": 4617,
+      "type": "file"
+    },
+    "subversion.cpython-39.pyc": {
+      "size": 7951,
+      "type": "file"
+    },
+    "versioncontrol.cpython-39.pyc": {
+      "size": 19096,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 480,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_internal\\__pycache__": {
+    "build_env.cpython-39.pyc": {
+      "size": 8948,
+      "type": "file"
+    },
+    "cache.cpython-39.pyc": {
+      "size": 7838,
+      "type": "file"
+    },
+    "configuration.cpython-39.pyc": {
+      "size": 10690,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 15639,
+      "type": "file"
+    },
+    "pyproject.cpython-39.pyc": {
+      "size": 3450,
+      "type": "file"
+    },
+    "self_outdated_check.cpython-39.pyc": {
+      "size": 4335,
+      "type": "file"
+    },
+    "wheel_builder.cpython-39.pyc": {
+      "size": 8273,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 635,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor": {
+    "cachecontrol": {
+      "size": 67751,
+      "type": "directory"
+    },
+    "certifi": {
+      "size": 268741,
+      "type": "directory"
+    },
+    "chardet": {
+      "size": 1390290,
+      "type": "directory"
+    },
+    "colorama": {
+      "size": 48692,
+      "type": "directory"
+    },
+    "distlib": {
+      "size": 1021803,
+      "type": "directory"
+    },
+    "html5lib": {
+      "size": 768695,
+      "type": "directory"
+    },
+    "idna": {
+      "size": 288990,
+      "type": "directory"
+    },
+    "msgpack": {
+      "size": 82803,
+      "type": "directory"
+    },
+    "packaging": {
+      "size": 178872,
+      "type": "directory"
+    },
+    "pep517": {
+      "size": 57031,
+      "type": "directory"
+    },
+    "pkg_resources": {
+      "size": 209812,
+      "type": "directory"
+    },
+    "progress": {
+      "size": 20137,
+      "type": "directory"
+    },
+    "requests": {
+      "size": 316045,
+      "type": "directory"
+    },
+    "resolvelib": {
+      "size": 61581,
+      "type": "directory"
+    },
+    "tenacity": {
+      "size": 90254,
+      "type": "directory"
+    },
+    "toml": {
+      "size": 85364,
+      "type": "directory"
+    },
+    "urllib3": {
+      "size": 598640,
+      "type": "directory"
+    },
+    "webencodings": {
+      "size": 45285,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 291709,
+      "type": "directory"
+    },
+    "appdirs.py": {
+      "size": 25907,
+      "type": "file"
+    },
+    "distro.py": {
+      "size": 43628,
+      "type": "file"
+    },
+    "pyparsing.py": {
+      "size": 273394,
+      "type": "file"
+    },
+    "six.py": {
+      "size": 34159,
+      "type": "file"
+    },
+    "vendor.txt": {
+      "size": 364,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 4760,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol": {
+    "caches": {
+      "size": 10250,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 20989,
+      "type": "directory"
+    },
+    "adapter.py": {
+      "size": 4882,
+      "type": "file"
+    },
+    "cache.py": {
+      "size": 805,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 695,
+      "type": "file"
+    },
+    "controller.py": {
+      "size": 14149,
+      "type": "file"
+    },
+    "filewrapper.py": {
+      "size": 2533,
+      "type": "file"
+    },
+    "heuristics.py": {
+      "size": 4070,
+      "type": "file"
+    },
+    "serialize.py": {
+      "size": 7091,
+      "type": "file"
+    },
+    "wrapper.py": {
+      "size": 690,
+      "type": "file"
+    },
+    "_cmd.py": {
+      "size": 1295,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 302,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches": {
+    "__pycache__": {
+      "size": 5155,
+      "type": "directory"
+    },
+    "file_cache.py": {
+      "size": 4153,
+      "type": "file"
+    },
+    "redis_cache.py": {
+      "size": 856,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 86,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__": {
+    "file_cache.cpython-39.pyc": {
+      "size": 3305,
+      "type": "file"
+    },
+    "redis_cache.cpython-39.pyc": {
+      "size": 1561,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 289,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\__pycache__": {
+    "adapter.cpython-39.pyc": {
+      "size": 3071,
+      "type": "file"
+    },
+    "cache.cpython-39.pyc": {
+      "size": 1818,
+      "type": "file"
+    },
+    "compat.cpython-39.pyc": {
+      "size": 742,
+      "type": "file"
+    },
+    "controller.cpython-39.pyc": {
+      "size": 7759,
+      "type": "file"
+    },
+    "filewrapper.cpython-39.pyc": {
+      "size": 2167,
+      "type": "file"
+    },
+    "serialize.cpython-39.pyc": {
+      "size": 4218,
+      "type": "file"
+    },
+    "wrapper.cpython-39.pyc": {
+      "size": 669,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 545,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi": {
+    "__pycache__": {
+      "size": 1810,
+      "type": "directory"
+    },
+    "cacert.pem": {
+      "size": 263774,
+      "type": "file"
+    },
+    "core.py": {
+      "size": 2840,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 62,
+      "type": "file"
+    },
+    "__main__.py": {
+      "size": 255,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__pycache__": {
+    "core.cpython-39.pyc": {
+      "size": 1539,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 271,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet": {
+    "cli": {
+      "size": 2748,
+      "type": "directory"
+    },
+    "metadata": {
+      "size": 19474,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 353536,
+      "type": "directory"
+    },
+    "big5freq.py": {
+      "size": 31254,
+      "type": "file"
+    },
+    "big5prober.py": {
+      "size": 1757,
+      "type": "file"
+    },
+    "chardistribution.py": {
+      "size": 9411,
+      "type": "file"
+    },
+    "charsetgroupprober.py": {
+      "size": 3839,
+      "type": "file"
+    },
+    "charsetprober.py": {
+      "size": 5110,
+      "type": "file"
+    },
+    "codingstatemachine.py": {
+      "size": 3590,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 1200,
+      "type": "file"
+    },
+    "cp949prober.py": {
+      "size": 1855,
+      "type": "file"
+    },
+    "enums.py": {
+      "size": 1661,
+      "type": "file"
+    },
+    "escprober.py": {
+      "size": 3950,
+      "type": "file"
+    },
+    "escsm.py": {
+      "size": 10510,
+      "type": "file"
+    },
+    "eucjpprober.py": {
+      "size": 3749,
+      "type": "file"
+    },
+    "euckrfreq.py": {
+      "size": 13546,
+      "type": "file"
+    },
+    "euckrprober.py": {
+      "size": 1748,
+      "type": "file"
+    },
+    "euctwfreq.py": {
+      "size": 31621,
+      "type": "file"
+    },
+    "euctwprober.py": {
+      "size": 1747,
+      "type": "file"
+    },
+    "gb2312freq.py": {
+      "size": 20715,
+      "type": "file"
+    },
+    "gb2312prober.py": {
+      "size": 1754,
+      "type": "file"
+    },
+    "hebrewprober.py": {
+      "size": 13838,
+      "type": "file"
+    },
+    "jisfreq.py": {
+      "size": 25777,
+      "type": "file"
+    },
+    "jpcntx.py": {
+      "size": 19643,
+      "type": "file"
+    },
+    "langbulgarianmodel.py": {
+      "size": 105697,
+      "type": "file"
+    },
+    "langgreekmodel.py": {
+      "size": 99571,
+      "type": "file"
+    },
+    "langhebrewmodel.py": {
+      "size": 98776,
+      "type": "file"
+    },
+    "langhungarianmodel.py": {
+      "size": 102498,
+      "type": "file"
+    },
+    "langrussianmodel.py": {
+      "size": 131180,
+      "type": "file"
+    },
+    "langthaimodel.py": {
+      "size": 103312,
+      "type": "file"
+    },
+    "langturkishmodel.py": {
+      "size": 95946,
+      "type": "file"
+    },
+    "latin1prober.py": {
+      "size": 5370,
+      "type": "file"
+    },
+    "mbcharsetprober.py": {
+      "size": 3413,
+      "type": "file"
+    },
+    "mbcsgroupprober.py": {
+      "size": 2012,
+      "type": "file"
+    },
+    "mbcssm.py": {
+      "size": 25481,
+      "type": "file"
+    },
+    "sbcharsetprober.py": {
+      "size": 6136,
+      "type": "file"
+    },
+    "sbcsgroupprober.py": {
+      "size": 4309,
+      "type": "file"
+    },
+    "sjisprober.py": {
+      "size": 3774,
+      "type": "file"
+    },
+    "universaldetector.py": {
+      "size": 12503,
+      "type": "file"
+    },
+    "utf8prober.py": {
+      "size": 2766,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 242,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 3271,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli": {
+    "chardetect.py": {
+      "size": 2747,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata": {
+    "languages.py": {
+      "size": 19474,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__": {
+    "big5freq.cpython-39.pyc": {
+      "size": 27174,
+      "type": "file"
+    },
+    "big5prober.cpython-39.pyc": {
+      "size": 1129,
+      "type": "file"
+    },
+    "chardistribution.cpython-39.pyc": {
+      "size": 6215,
+      "type": "file"
+    },
+    "charsetgroupprober.cpython-39.pyc": {
+      "size": 2256,
+      "type": "file"
+    },
+    "charsetprober.cpython-39.pyc": {
+      "size": 3478,
+      "type": "file"
+    },
+    "codingstatemachine.cpython-39.pyc": {
+      "size": 2905,
+      "type": "file"
+    },
+    "cp949prober.cpython-39.pyc": {
+      "size": 1136,
+      "type": "file"
+    },
+    "enums.cpython-39.pyc": {
+      "size": 2643,
+      "type": "file"
+    },
+    "escprober.cpython-39.pyc": {
+      "size": 2628,
+      "type": "file"
+    },
+    "escsm.cpython-39.pyc": {
+      "size": 7077,
+      "type": "file"
+    },
+    "eucjpprober.cpython-39.pyc": {
+      "size": 2442,
+      "type": "file"
+    },
+    "euckrfreq.cpython-39.pyc": {
+      "size": 12058,
+      "type": "file"
+    },
+    "euckrprober.cpython-39.pyc": {
+      "size": 1137,
+      "type": "file"
+    },
+    "euctwfreq.cpython-39.pyc": {
+      "size": 27178,
+      "type": "file"
+    },
+    "euctwprober.cpython-39.pyc": {
+      "size": 1137,
+      "type": "file"
+    },
+    "gb2312freq.cpython-39.pyc": {
+      "size": 19102,
+      "type": "file"
+    },
+    "gb2312prober.cpython-39.pyc": {
+      "size": 1145,
+      "type": "file"
+    },
+    "hebrewprober.cpython-39.pyc": {
+      "size": 3014,
+      "type": "file"
+    },
+    "jisfreq.cpython-39.pyc": {
+      "size": 22130,
+      "type": "file"
+    },
+    "jpcntx.cpython-39.pyc": {
+      "size": 37603,
+      "type": "file"
+    },
+    "langbulgarianmodel.cpython-39.pyc": {
+      "size": 21805,
+      "type": "file"
+    },
+    "langgreekmodel.cpython-39.pyc": {
+      "size": 20481,
+      "type": "file"
+    },
+    "langhebrewmodel.cpython-39.pyc": {
+      "size": 20549,
+      "type": "file"
+    },
+    "langrussianmodel.cpython-39.pyc": {
+      "size": 26353,
+      "type": "file"
+    },
+    "langthaimodel.cpython-39.pyc": {
+      "size": 20725,
+      "type": "file"
+    },
+    "langturkishmodel.cpython-39.pyc": {
+      "size": 20565,
+      "type": "file"
+    },
+    "latin1prober.cpython-39.pyc": {
+      "size": 2950,
+      "type": "file"
+    },
+    "mbcharsetprober.cpython-39.pyc": {
+      "size": 2257,
+      "type": "file"
+    },
+    "mbcsgroupprober.cpython-39.pyc": {
+      "size": 1126,
+      "type": "file"
+    },
+    "mbcssm.cpython-39.pyc": {
+      "size": 15713,
+      "type": "file"
+    },
+    "sbcharsetprober.cpython-39.pyc": {
+      "size": 3110,
+      "type": "file"
+    },
+    "sbcsgroupprober.cpython-39.pyc": {
+      "size": 1695,
+      "type": "file"
+    },
+    "sjisprober.cpython-39.pyc": {
+      "size": 2478,
+      "type": "file"
+    },
+    "universaldetector.cpython-39.pyc": {
+      "size": 5826,
+      "type": "file"
+    },
+    "utf8prober.cpython-39.pyc": {
+      "size": 1987,
+      "type": "file"
+    },
+    "version.cpython-39.pyc": {
+      "size": 434,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1895,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama": {
+    "__pycache__": {
+      "size": 21657,
+      "type": "directory"
+    },
+    "ansi.py": {
+      "size": 2522,
+      "type": "file"
+    },
+    "ansitowin32.py": {
+      "size": 10517,
+      "type": "file"
+    },
+    "initialise.py": {
+      "size": 1915,
+      "type": "file"
+    },
+    "win32.py": {
+      "size": 5404,
+      "type": "file"
+    },
+    "winterm.py": {
+      "size": 6438,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 239,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\__pycache__": {
+    "ansi.cpython-39.pyc": {
+      "size": 3224,
+      "type": "file"
+    },
+    "ansitowin32.cpython-39.pyc": {
+      "size": 7690,
+      "type": "file"
+    },
+    "initialise.cpython-39.pyc": {
+      "size": 1706,
+      "type": "file"
+    },
+    "win32.cpython-39.pyc": {
+      "size": 3938,
+      "type": "file"
+    },
+    "winterm.cpython-39.pyc": {
+      "size": 4660,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 439,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib": {
+    "_backport": {
+      "size": 149051,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 103348,
+      "type": "directory"
+    },
+    "compat.py": {
+      "size": 41408,
+      "type": "file"
+    },
+    "database.py": {
+      "size": 51059,
+      "type": "file"
+    },
+    "index.py": {
+      "size": 21066,
+      "type": "file"
+    },
+    "locators.py": {
+      "size": 52100,
+      "type": "file"
+    },
+    "manifest.py": {
+      "size": 14811,
+      "type": "file"
+    },
+    "markers.py": {
+      "size": 4387,
+      "type": "file"
+    },
+    "metadata.py": {
+      "size": 38962,
+      "type": "file"
+    },
+    "resources.py": {
+      "size": 10766,
+      "type": "file"
+    },
+    "scripts.py": {
+      "size": 17180,
+      "type": "file"
+    },
+    "t32.exe": {
+      "size": 96768,
+      "type": "file"
+    },
+    "t64.exe": {
+      "size": 105984,
+      "type": "file"
+    },
+    "util.py": {
+      "size": 59845,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 23391,
+      "type": "file"
+    },
+    "w32.exe": {
+      "size": 90112,
+      "type": "file"
+    },
+    "w64.exe": {
+      "size": 99840,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 41144,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 581,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\_backport": {
+    "misc.py": {
+      "size": 971,
+      "type": "file"
+    },
+    "shutil.py": {
+      "size": 25707,
+      "type": "file"
+    },
+    "sysconfig.cfg": {
+      "size": 2617,
+      "type": "file"
+    },
+    "sysconfig.py": {
+      "size": 26854,
+      "type": "file"
+    },
+    "tarfile.py": {
+      "size": 92628,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 274,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__pycache__": {
+    "compat.cpython-39.pyc": {
+      "size": 32154,
+      "type": "file"
+    },
+    "resources.cpython-39.pyc": {
+      "size": 11018,
+      "type": "file"
+    },
+    "scripts.cpython-39.pyc": {
+      "size": 10926,
+      "type": "file"
+    },
+    "util.cpython-39.pyc": {
+      "size": 48198,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1052,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib": {
+    "filters": {
+      "size": 46492,
+      "type": "directory"
+    },
+    "treeadapters": {
+      "size": 4170,
+      "type": "directory"
+    },
+    "treebuilders": {
+      "size": 81141,
+      "type": "directory"
+    },
+    "treewalkers": {
+      "size": 31819,
+      "type": "directory"
+    },
+    "_trie": {
+      "size": 7090,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 249362,
+      "type": "directory"
+    },
+    "constants.py": {
+      "size": 83464,
+      "type": "file"
+    },
+    "html5parser.py": {
+      "size": 117186,
+      "type": "file"
+    },
+    "serializer.py": {
+      "size": 15759,
+      "type": "file"
+    },
+    "_ihatexml.py": {
+      "size": 16728,
+      "type": "file"
+    },
+    "_inputstream.py": {
+      "size": 32353,
+      "type": "file"
+    },
+    "_tokenizer.py": {
+      "size": 77040,
+      "type": "file"
+    },
+    "_utils.py": {
+      "size": 4931,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1160,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\filters": {
+    "alphabeticalattributes.py": {
+      "size": 919,
+      "type": "file"
+    },
+    "base.py": {
+      "size": 286,
+      "type": "file"
+    },
+    "inject_meta_charset.py": {
+      "size": 2945,
+      "type": "file"
+    },
+    "lint.py": {
+      "size": 3643,
+      "type": "file"
+    },
+    "optionaltags.py": {
+      "size": 10588,
+      "type": "file"
+    },
+    "sanitizer.py": {
+      "size": 26897,
+      "type": "file"
+    },
+    "whitespace.py": {
+      "size": 1214,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\treeadapters": {
+    "genshi.py": {
+      "size": 1715,
+      "type": "file"
+    },
+    "sax.py": {
+      "size": 1776,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 679,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\treebuilders": {
+    "__pycache__": {
+      "size": 26457,
+      "type": "directory"
+    },
+    "base.py": {
+      "size": 14565,
+      "type": "file"
+    },
+    "dom.py": {
+      "size": 8925,
+      "type": "file"
+    },
+    "etree.py": {
+      "size": 12836,
+      "type": "file"
+    },
+    "etree_lxml.py": {
+      "size": 14766,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 3592,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\treebuilders\\__pycache__": {
+    "base.cpython-39.pyc": {
+      "size": 11312,
+      "type": "file"
+    },
+    "etree.cpython-39.pyc": {
+      "size": 11817,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 3328,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\treewalkers": {
+    "__pycache__": {
+      "size": 3994,
+      "type": "directory"
+    },
+    "base.py": {
+      "size": 7476,
+      "type": "file"
+    },
+    "dom.py": {
+      "size": 1413,
+      "type": "file"
+    },
+    "etree.py": {
+      "size": 4551,
+      "type": "file"
+    },
+    "etree_lxml.py": {
+      "size": 6357,
+      "type": "file"
+    },
+    "genshi.py": {
+      "size": 2309,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 5719,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\treewalkers\\__pycache__": {
+    "__init__.cpython-39.pyc": {
+      "size": 3994,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\_trie": {
+    "__pycache__": {
+      "size": 4193,
+      "type": "directory"
+    },
+    "py.py": {
+      "size": 1775,
+      "type": "file"
+    },
+    "_base.py": {
+      "size": 1013,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 109,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\_trie\\__pycache__": {
+    "py.cpython-39.pyc": {
+      "size": 2253,
+      "type": "file"
+    },
+    "_base.cpython-39.pyc": {
+      "size": 1592,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 348,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\html5lib\\__pycache__": {
+    "constants.cpython-39.pyc": {
+      "size": 66336,
+      "type": "file"
+    },
+    "html5parser.cpython-39.pyc": {
+      "size": 91007,
+      "type": "file"
+    },
+    "serializer.cpython-39.pyc": {
+      "size": 10809,
+      "type": "file"
+    },
+    "_ihatexml.cpython-39.pyc": {
+      "size": 13767,
+      "type": "file"
+    },
+    "_inputstream.cpython-39.pyc": {
+      "size": 21626,
+      "type": "file"
+    },
+    "_tokenizer.cpython-39.pyc": {
+      "size": 39721,
+      "type": "file"
+    },
+    "_utils.cpython-39.pyc": {
+      "size": 4798,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1298,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\idna": {
+    "__pycache__": {
+      "size": 33480,
+      "type": "directory"
+    },
+    "codec.py": {
+      "size": 3027,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 232,
+      "type": "file"
+    },
+    "core.py": {
+      "size": 11849,
+      "type": "file"
+    },
+    "idnadata.py": {
+      "size": 42350,
+      "type": "file"
+    },
+    "intranges.py": {
+      "size": 1749,
+      "type": "file"
+    },
+    "package_data.py": {
+      "size": 21,
+      "type": "file"
+    },
+    "uts46data.py": {
+      "size": 196224,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 58,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__pycache__": {
+    "core.cpython-39.pyc": {
+      "size": 9081,
+      "type": "file"
+    },
+    "idnadata.cpython-39.pyc": {
+      "size": 22134,
+      "type": "file"
+    },
+    "intranges.cpython-39.pyc": {
+      "size": 1805,
+      "type": "file"
+    },
+    "package_data.cpython-39.pyc": {
+      "size": 207,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 253,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack": {
+    "__pycache__": {
+      "size": 36470,
+      "type": "directory"
+    },
+    "exceptions.py": {
+      "size": 1081,
+      "type": "file"
+    },
+    "ext.py": {
+      "size": 6088,
+      "type": "file"
+    },
+    "fallback.py": {
+      "size": 38026,
+      "type": "file"
+    },
+    "_version.py": {
+      "size": 20,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1118,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__pycache__": {
+    "exceptions.cpython-39.pyc": {
+      "size": 1848,
+      "type": "file"
+    },
+    "ext.cpython-39.pyc": {
+      "size": 6276,
+      "type": "file"
+    },
+    "fallback.cpython-39.pyc": {
+      "size": 26722,
+      "type": "file"
+    },
+    "_version.cpython-39.pyc": {
+      "size": 214,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1410,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging": {
+    "__pycache__": {
+      "size": 75900,
+      "type": "directory"
+    },
+    "markers.py": {
+      "size": 9472,
+      "type": "file"
+    },
+    "requirements.py": {
+      "size": 5110,
+      "type": "file"
+    },
+    "specifiers.py": {
+      "size": 32208,
+      "type": "file"
+    },
+    "tags.py": {
+      "size": 29561,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 4385,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 15974,
+      "type": "file"
+    },
+    "_compat.py": {
+      "size": 1128,
+      "type": "file"
+    },
+    "_structures.py": {
+      "size": 2022,
+      "type": "file"
+    },
+    "_typing.py": {
+      "size": 1824,
+      "type": "file"
+    },
+    "__about__.py": {
+      "size": 726,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 562,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__pycache__": {
+    "markers.cpython-39.pyc": {
+      "size": 9267,
+      "type": "file"
+    },
+    "requirements.cpython-39.pyc": {
+      "size": 4140,
+      "type": "file"
+    },
+    "specifiers.cpython-39.pyc": {
+      "size": 20922,
+      "type": "file"
+    },
+    "tags.cpython-39.pyc": {
+      "size": 18539,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 3607,
+      "type": "file"
+    },
+    "version.cpython-39.pyc": {
+      "size": 12671,
+      "type": "file"
+    },
+    "_compat.cpython-39.pyc": {
+      "size": 1139,
+      "type": "file"
+    },
+    "_structures.cpython-39.pyc": {
+      "size": 2893,
+      "type": "file"
+    },
+    "_typing.cpython-39.pyc": {
+      "size": 1496,
+      "type": "file"
+    },
+    "__about__.cpython-39.pyc": {
+      "size": 685,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 541,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517": {
+    "in_process": {
+      "size": 9912,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 11896,
+      "type": "directory"
+    },
+    "build.py": {
+      "size": 3456,
+      "type": "file"
+    },
+    "check.py": {
+      "size": 6082,
+      "type": "file"
+    },
+    "colorlog.py": {
+      "size": 4098,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 780,
+      "type": "file"
+    },
+    "dirtools.py": {
+      "size": 1129,
+      "type": "file"
+    },
+    "envbuild.py": {
+      "size": 6041,
+      "type": "file"
+    },
+    "meta.py": {
+      "size": 2463,
+      "type": "file"
+    },
+    "wrappers.py": {
+      "size": 11044,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 130,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process": {
+    "__pycache__": {
+      "size": 911,
+      "type": "directory"
+    },
+    "_in_process.py": {
+      "size": 8438,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 563,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process\\__pycache__": {
+    "__init__.cpython-39.pyc": {
+      "size": 911,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\__pycache__": {
+    "compat.cpython-39.pyc": {
+      "size": 1111,
+      "type": "file"
+    },
+    "wrappers.cpython-39.pyc": {
+      "size": 10476,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 309,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources": {
+    "__pycache__": {
+      "size": 100973,
+      "type": "directory"
+    },
+    "py31compat.py": {
+      "size": 562,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 108277,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__pycache__": {
+    "py31compat.cpython-39.pyc": {
+      "size": 646,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 100327,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\progress": {
+    "__pycache__": {
+      "size": 9674,
+      "type": "directory"
+    },
+    "bar.py": {
+      "size": 2854,
+      "type": "file"
+    },
+    "counter.py": {
+      "size": 1372,
+      "type": "file"
+    },
+    "spinner.py": {
+      "size": 1380,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 4857,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\progress\\__pycache__": {
+    "bar.cpython-39.pyc": {
+      "size": 2635,
+      "type": "file"
+    },
+    "spinner.cpython-39.pyc": {
+      "size": 1386,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 5653,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\requests": {
+    "__pycache__": {
+      "size": 140424,
+      "type": "directory"
+    },
+    "adapters.py": {
+      "size": 21548,
+      "type": "file"
+    },
+    "api.py": {
+      "size": 6496,
+      "type": "file"
+    },
+    "auth.py": {
+      "size": 10207,
+      "type": "file"
+    },
+    "certs.py": {
+      "size": 465,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 2045,
+      "type": "file"
+    },
+    "cookies.py": {
+      "size": 18430,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 3173,
+      "type": "file"
+    },
+    "help.py": {
+      "size": 3578,
+      "type": "file"
+    },
+    "hooks.py": {
+      "size": 757,
+      "type": "file"
+    },
+    "models.py": {
+      "size": 34373,
+      "type": "file"
+    },
+    "packages.py": {
+      "size": 695,
+      "type": "file"
+    },
+    "sessions.py": {
+      "size": 30137,
+      "type": "file"
+    },
+    "status_codes.py": {
+      "size": 4188,
+      "type": "file"
+    },
+    "structures.py": {
+      "size": 3005,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 30529,
+      "type": "file"
+    },
+    "_internal_utils.py": {
+      "size": 1096,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 4458,
+      "type": "file"
+    },
+    "__version__.py": {
+      "size": 441,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__pycache__": {
+    "adapters.cpython-39.pyc": {
+      "size": 16969,
+      "type": "file"
+    },
+    "api.cpython-39.pyc": {
+      "size": 6755,
+      "type": "file"
+    },
+    "auth.cpython-39.pyc": {
+      "size": 8327,
+      "type": "file"
+    },
+    "certs.cpython-39.pyc": {
+      "size": 629,
+      "type": "file"
+    },
+    "compat.cpython-39.pyc": {
+      "size": 1608,
+      "type": "file"
+    },
+    "cookies.cpython-39.pyc": {
+      "size": 18818,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 5241,
+      "type": "file"
+    },
+    "hooks.cpython-39.pyc": {
+      "size": 986,
+      "type": "file"
+    },
+    "models.cpython-39.pyc": {
+      "size": 23935,
+      "type": "file"
+    },
+    "packages.cpython-39.pyc": {
+      "size": 498,
+      "type": "file"
+    },
+    "sessions.cpython-39.pyc": {
+      "size": 19840,
+      "type": "file"
+    },
+    "status_codes.cpython-39.pyc": {
+      "size": 4235,
+      "type": "file"
+    },
+    "structures.cpython-39.pyc": {
+      "size": 4456,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 22613,
+      "type": "file"
+    },
+    "_internal_utils.cpython-39.pyc": {
+      "size": 1298,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 3665,
+      "type": "file"
+    },
+    "__version__.cpython-39.pyc": {
+      "size": 551,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib": {
+    "compat": {
+      "size": 724,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 31531,
+      "type": "directory"
+    },
+    "providers.py": {
+      "size": 5638,
+      "type": "file"
+    },
+    "reporters.py": {
+      "size": 1364,
+      "type": "file"
+    },
+    "resolvers.py": {
+      "size": 17292,
+      "type": "file"
+    },
+    "structs.py": {
+      "size": 4495,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 537,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat": {
+    "__pycache__": {
+      "size": 568,
+      "type": "directory"
+    },
+    "collections_abc.py": {
+      "size": 156,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__": {
+    "collections_abc.cpython-39.pyc": {
+      "size": 371,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 197,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\__pycache__": {
+    "providers.cpython-39.pyc": {
+      "size": 6522,
+      "type": "file"
+    },
+    "reporters.cpython-39.pyc": {
+      "size": 2298,
+      "type": "file"
+    },
+    "resolvers.cpython-39.pyc": {
+      "size": 15193,
+      "type": "file"
+    },
+    "structs.cpython-39.pyc": {
+      "size": 6916,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 602,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity": {
+    "__pycache__": {
+      "size": 44430,
+      "type": "directory"
+    },
+    "after.py": {
+      "size": 1307,
+      "type": "file"
+    },
+    "before.py": {
+      "size": 1154,
+      "type": "file"
+    },
+    "before_sleep.py": {
+      "size": 1784,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 739,
+      "type": "file"
+    },
+    "nap.py": {
+      "size": 1280,
+      "type": "file"
+    },
+    "retry.py": {
+      "size": 5463,
+      "type": "file"
+    },
+    "stop.py": {
+      "size": 2435,
+      "type": "file"
+    },
+    "tornadoweb.py": {
+      "size": 1729,
+      "type": "file"
+    },
+    "wait.py": {
+      "size": 6017,
+      "type": "file"
+    },
+    "_asyncio.py": {
+      "size": 2833,
+      "type": "file"
+    },
+    "_utils.py": {
+      "size": 4555,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 16528,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__pycache__": {
+    "after.cpython-39.pyc": {
+      "size": 974,
+      "type": "file"
+    },
+    "before.cpython-39.pyc": {
+      "size": 870,
+      "type": "file"
+    },
+    "before_sleep.cpython-39.pyc": {
+      "size": 1218,
+      "type": "file"
+    },
+    "compat.cpython-39.pyc": {
+      "size": 954,
+      "type": "file"
+    },
+    "nap.cpython-39.pyc": {
+      "size": 1023,
+      "type": "file"
+    },
+    "retry.cpython-39.pyc": {
+      "size": 7408,
+      "type": "file"
+    },
+    "stop.cpython-39.pyc": {
+      "size": 3784,
+      "type": "file"
+    },
+    "wait.cpython-39.pyc": {
+      "size": 7341,
+      "type": "file"
+    },
+    "_asyncio.cpython-39.pyc": {
+      "size": 2199,
+      "type": "file"
+    },
+    "_utils.cpython-39.pyc": {
+      "size": 3947,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 14712,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\toml": {
+    "__pycache__": {
+      "size": 34620,
+      "type": "directory"
+    },
+    "decoder.py": {
+      "size": 38954,
+      "type": "file"
+    },
+    "encoder.py": {
+      "size": 9964,
+      "type": "file"
+    },
+    "ordered.py": {
+      "size": 378,
+      "type": "file"
+    },
+    "tz.py": {
+      "size": 701,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 747,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\toml\\__pycache__": {
+    "decoder.cpython-39.pyc": {
+      "size": 23220,
+      "type": "file"
+    },
+    "encoder.cpython-39.pyc": {
+      "size": 9403,
+      "type": "file"
+    },
+    "tz.cpython-39.pyc": {
+      "size": 1269,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 728,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3": {
+    "contrib": {
+      "size": 113144,
+      "type": "directory"
+    },
+    "packages": {
+      "size": 67865,
+      "type": "directory"
+    },
+    "util": {
+      "size": 159753,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 115173,
+      "type": "directory"
+    },
+    "connection.py": {
+      "size": 18748,
+      "type": "file"
+    },
+    "connectionpool.py": {
+      "size": 37133,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 8217,
+      "type": "file"
+    },
+    "fields.py": {
+      "size": 8579,
+      "type": "file"
+    },
+    "filepost.py": {
+      "size": 2440,
+      "type": "file"
+    },
+    "poolmanager.py": {
+      "size": 19763,
+      "type": "file"
+    },
+    "request.py": {
+      "size": 5985,
+      "type": "file"
+    },
+    "response.py": {
+      "size": 28203,
+      "type": "file"
+    },
+    "_collections.py": {
+      "size": 10811,
+      "type": "file"
+    },
+    "_version.py": {
+      "size": 63,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 2763,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib": {
+    "_securetransport": {
+      "size": 31557,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 7241,
+      "type": "directory"
+    },
+    "appengine.py": {
+      "size": 11034,
+      "type": "file"
+    },
+    "ntlmpool.py": {
+      "size": 4160,
+      "type": "file"
+    },
+    "pyopenssl.py": {
+      "size": 16795,
+      "type": "file"
+    },
+    "securetransport.py": {
+      "size": 34303,
+      "type": "file"
+    },
+    "socks.py": {
+      "size": 7097,
+      "type": "file"
+    },
+    "_appengine_environ.py": {
+      "size": 957,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport": {
+    "bindings.py": {
+      "size": 17649,
+      "type": "file"
+    },
+    "low_level.py": {
+      "size": 13908,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__": {
+    "socks.cpython-39.pyc": {
+      "size": 5631,
+      "type": "file"
+    },
+    "_appengine_environ.cpython-39.pyc": {
+      "size": 1415,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 195,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages": {
+    "backports": {
+      "size": 1417,
+      "type": "directory"
+    },
+    "ssl_match_hostname": {
+      "size": 6982,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 26822,
+      "type": "directory"
+    },
+    "six.py": {
+      "size": 32536,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 108,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports": {
+    "makefile.py": {
+      "size": 1417,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\ssl_match_hostname": {
+    "__pycache__": {
+      "size": 546,
+      "type": "directory"
+    },
+    "_implementation.py": {
+      "size": 5679,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 757,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\ssl_match_hostname\\__pycache__": {
+    "__init__.cpython-39.pyc": {
+      "size": 546,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__": {
+    "six.cpython-39.pyc": {
+      "size": 26513,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 309,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util": {
+    "__pycache__": {
+      "size": 69944,
+      "type": "directory"
+    },
+    "connection.py": {
+      "size": 4922,
+      "type": "file"
+    },
+    "proxy.py": {
+      "size": 1604,
+      "type": "file"
+    },
+    "queue.py": {
+      "size": 498,
+      "type": "file"
+    },
+    "request.py": {
+      "size": 4123,
+      "type": "file"
+    },
+    "response.py": {
+      "size": 3510,
+      "type": "file"
+    },
+    "retry.py": {
+      "size": 21396,
+      "type": "file"
+    },
+    "ssltransport.py": {
+      "size": 6932,
+      "type": "file"
+    },
+    "ssl_.py": {
+      "size": 16281,
+      "type": "file"
+    },
+    "timeout.py": {
+      "size": 10003,
+      "type": "file"
+    },
+    "url.py": {
+      "size": 13981,
+      "type": "file"
+    },
+    "wait.py": {
+      "size": 5404,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1155,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__": {
+    "connection.cpython-39.pyc": {
+      "size": 3459,
+      "type": "file"
+    },
+    "proxy.cpython-39.pyc": {
+      "size": 1341,
+      "type": "file"
+    },
+    "queue.cpython-39.pyc": {
+      "size": 1060,
+      "type": "file"
+    },
+    "request.cpython-39.pyc": {
+      "size": 3448,
+      "type": "file"
+    },
+    "response.cpython-39.pyc": {
+      "size": 2345,
+      "type": "file"
+    },
+    "retry.cpython-39.pyc": {
+      "size": 15962,
+      "type": "file"
+    },
+    "ssltransport.cpython-39.pyc": {
+      "size": 7511,
+      "type": "file"
+    },
+    "ssl_.cpython-39.pyc": {
+      "size": 11023,
+      "type": "file"
+    },
+    "timeout.cpython-39.pyc": {
+      "size": 8943,
+      "type": "file"
+    },
+    "url.cpython-39.pyc": {
+      "size": 10619,
+      "type": "file"
+    },
+    "wait.cpython-39.pyc": {
+      "size": 3128,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1105,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\__pycache__": {
+    "connection.cpython-39.pyc": {
+      "size": 13365,
+      "type": "file"
+    },
+    "connectionpool.cpython-39.pyc": {
+      "size": 24464,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 11642,
+      "type": "file"
+    },
+    "fields.cpython-39.pyc": {
+      "size": 8157,
+      "type": "file"
+    },
+    "filepost.cpython-39.pyc": {
+      "size": 2758,
+      "type": "file"
+    },
+    "poolmanager.cpython-39.pyc": {
+      "size": 15160,
+      "type": "file"
+    },
+    "request.cpython-39.pyc": {
+      "size": 5621,
+      "type": "file"
+    },
+    "response.cpython-39.pyc": {
+      "size": 20832,
+      "type": "file"
+    },
+    "_collections.cpython-39.pyc": {
+      "size": 10780,
+      "type": "file"
+    },
+    "_version.cpython-39.pyc": {
+      "size": 209,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 2185,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings": {
+    "__pycache__": {
+      "size": 13552,
+      "type": "directory"
+    },
+    "labels.py": {
+      "size": 8979,
+      "type": "file"
+    },
+    "mklabels.py": {
+      "size": 1305,
+      "type": "file"
+    },
+    "tests.py": {
+      "size": 6563,
+      "type": "file"
+    },
+    "x_user_defined.py": {
+      "size": 4307,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 10579,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\__pycache__": {
+    "labels.cpython-39.pyc": {
+      "size": 3833,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 9719,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\_vendor\\__pycache__": {
+    "appdirs.cpython-39.pyc": {
+      "size": 21395,
+      "type": "file"
+    },
+    "pyparsing.cpython-39.pyc": {
+      "size": 240431,
+      "type": "file"
+    },
+    "six.cpython-39.pyc": {
+      "size": 26941,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 2942,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip\\__pycache__": {
+    "__init__.cpython-39.pyc": {
+      "size": 586,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pip-21.1.2.dist-info": {
+    "entry_points.txt": {
+      "size": 125,
+      "type": "file"
+    },
+    "INSTALLER": {
+      "size": 5,
+      "type": "file"
+    },
+    "LICENSE.txt": {
+      "size": 1090,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 4103,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 58222,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 4,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pkg_resources": {
+    "extern": {
+      "size": 2362,
+      "type": "directory"
+    },
+    "tests": {
+      "size": 104,
+      "type": "directory"
+    },
+    "_vendor": {
+      "size": 350756,
+      "type": "directory"
+    },
+    "__init__.py": {
+      "size": 108202,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pkg_resources\\extern": {
+    "__init__.py": {
+      "size": 2362,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pkg_resources\\tests": {
+    "data": {
+      "size": 104,
+      "type": "directory"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pkg_resources\\tests\\data": {
+    "my-test-package-source": {
+      "size": 104,
+      "type": "directory"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pkg_resources\\tests\\data\\my-test-package-source": {
+    "setup.py": {
+      "size": 104,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pkg_resources\\_vendor": {
+    "packaging": {
+      "size": 93999,
+      "type": "directory"
+    },
+    "appdirs.py": {
+      "size": 24701,
+      "type": "file"
+    },
+    "pyparsing.py": {
+      "size": 232056,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging": {
+    "markers.py": {
+      "size": 9518,
+      "type": "file"
+    },
+    "requirements.py": {
+      "size": 4929,
+      "type": "file"
+    },
+    "specifiers.py": {
+      "size": 31944,
+      "type": "file"
+    },
+    "tags.py": {
+      "size": 24067,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 1811,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 15470,
+      "type": "file"
+    },
+    "_compat.py": {
+      "size": 1128,
+      "type": "file"
+    },
+    "_structures.py": {
+      "size": 2022,
+      "type": "file"
+    },
+    "_typing.py": {
+      "size": 1812,
+      "type": "file"
+    },
+    "__about__.py": {
+      "size": 736,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 562,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\requests": {
+    "__pycache__": {
+      "size": 146046,
+      "type": "directory"
+    },
+    "adapters.py": {
+      "size": 21287,
+      "type": "file"
+    },
+    "api.py": {
+      "size": 6377,
+      "type": "file"
+    },
+    "auth.py": {
+      "size": 10187,
+      "type": "file"
+    },
+    "certs.py": {
+      "size": 429,
+      "type": "file"
+    },
+    "compat.py": {
+      "size": 1451,
+      "type": "file"
+    },
+    "cookies.py": {
+      "size": 18560,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 3811,
+      "type": "file"
+    },
+    "help.py": {
+      "size": 3875,
+      "type": "file"
+    },
+    "hooks.py": {
+      "size": 733,
+      "type": "file"
+    },
+    "models.py": {
+      "size": 35223,
+      "type": "file"
+    },
+    "packages.py": {
+      "size": 957,
+      "type": "file"
+    },
+    "sessions.py": {
+      "size": 30180,
+      "type": "file"
+    },
+    "status_codes.py": {
+      "size": 4235,
+      "type": "file"
+    },
+    "structures.py": {
+      "size": 2912,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 33228,
+      "type": "file"
+    },
+    "_internal_utils.py": {
+      "size": 1397,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 4972,
+      "type": "file"
+    },
+    "__version__.py": {
+      "size": 435,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\requests\\__pycache__": {
+    "adapters.cpython-39.pyc": {
+      "size": 16870,
+      "type": "file"
+    },
+    "api.cpython-39.pyc": {
+      "size": 6703,
+      "type": "file"
+    },
+    "auth.cpython-39.pyc": {
+      "size": 8340,
+      "type": "file"
+    },
+    "certs.cpython-39.pyc": {
+      "size": 605,
+      "type": "file"
+    },
+    "compat.cpython-39.pyc": {
+      "size": 1504,
+      "type": "file"
+    },
+    "cookies.cpython-39.pyc": {
+      "size": 18802,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 6103,
+      "type": "file"
+    },
+    "help.cpython-39.pyc": {
+      "size": 2817,
+      "type": "file"
+    },
+    "hooks.cpython-39.pyc": {
+      "size": 974,
+      "type": "file"
+    },
+    "models.cpython-39.pyc": {
+      "size": 24222,
+      "type": "file"
+    },
+    "packages.cpython-39.pyc": {
+      "size": 695,
+      "type": "file"
+    },
+    "sessions.cpython-39.pyc": {
+      "size": 19615,
+      "type": "file"
+    },
+    "status_codes.cpython-39.pyc": {
+      "size": 4219,
+      "type": "file"
+    },
+    "structures.cpython-39.pyc": {
+      "size": 4431,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 24203,
+      "type": "file"
+    },
+    "_internal_utils.cpython-39.pyc": {
+      "size": 1548,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 3861,
+      "type": "file"
+    },
+    "__version__.cpython-39.pyc": {
+      "size": 534,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\requests-2.28.2.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE": {
+      "size": 10142,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 4619,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 2833,
+      "type": "file"
+    },
+    "REQUESTED": {
+      "size": 0,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 9,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools": {
+    "command": {
+      "size": 216514,
+      "type": "directory"
+    },
+    "extern": {
+      "size": 2407,
+      "type": "directory"
+    },
+    "_distutils": {
+      "size": 661913,
+      "type": "directory"
+    },
+    "_vendor": {
+      "size": 475470,
+      "type": "directory"
+    },
+    "archive_util.py": {
+      "size": 7077,
+      "type": "file"
+    },
+    "build_meta.py": {
+      "size": 10280,
+      "type": "file"
+    },
+    "cli-32.exe": {
+      "size": 65536,
+      "type": "file"
+    },
+    "cli-64.exe": {
+      "size": 74752,
+      "type": "file"
+    },
+    "cli.exe": {
+      "size": 65536,
+      "type": "file"
+    },
+    "config.py": {
+      "size": 22279,
+      "type": "file"
+    },
+    "depends.py": {
+      "size": 5474,
+      "type": "file"
+    },
+    "dep_util.py": {
+      "size": 949,
+      "type": "file"
+    },
+    "dist.py": {
+      "size": 42374,
+      "type": "file"
+    },
+    "errors.py": {
+      "size": 524,
+      "type": "file"
+    },
+    "extension.py": {
+      "size": 1684,
+      "type": "file"
+    },
+    "glob.py": {
+      "size": 4873,
+      "type": "file"
+    },
+    "gui-32.exe": {
+      "size": 65536,
+      "type": "file"
+    },
+    "gui-64.exe": {
+      "size": 75264,
+      "type": "file"
+    },
+    "gui.exe": {
+      "size": 65536,
+      "type": "file"
+    },
+    "installer.py": {
+      "size": 3567,
+      "type": "file"
+    },
+    "launch.py": {
+      "size": 812,
+      "type": "file"
+    },
+    "lib2to3_ex.py": {
+      "size": 2335,
+      "type": "file"
+    },
+    "monkey.py": {
+      "size": 5217,
+      "type": "file"
+    },
+    "msvc.py": {
+      "size": 50561,
+      "type": "file"
+    },
+    "namespaces.py": {
+      "size": 3093,
+      "type": "file"
+    },
+    "package_index.py": {
+      "size": 40173,
+      "type": "file"
+    },
+    "py34compat.py": {
+      "size": 245,
+      "type": "file"
+    },
+    "sandbox.py": {
+      "size": 14151,
+      "type": "file"
+    },
+    "script (dev).tmpl": {
+      "size": 218,
+      "type": "file"
+    },
+    "script.tmpl": {
+      "size": 138,
+      "type": "file"
+    },
+    "ssl_support.py": {
+      "size": 8565,
+      "type": "file"
+    },
+    "unicode_utils.py": {
+      "size": 941,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 144,
+      "type": "file"
+    },
+    "wheel.py": {
+      "size": 8288,
+      "type": "file"
+    },
+    "windows_support.py": {
+      "size": 714,
+      "type": "file"
+    },
+    "_deprecation_warning.py": {
+      "size": 218,
+      "type": "file"
+    },
+    "_imp.py": {
+      "size": 2392,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 7681,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools\\command": {
+    "alias.py": {
+      "size": 2381,
+      "type": "file"
+    },
+    "bdist_egg.py": {
+      "size": 16604,
+      "type": "file"
+    },
+    "bdist_rpm.py": {
+      "size": 900,
+      "type": "file"
+    },
+    "build_clib.py": {
+      "size": 4415,
+      "type": "file"
+    },
+    "build_ext.py": {
+      "size": 13027,
+      "type": "file"
+    },
+    "build_py.py": {
+      "size": 8930,
+      "type": "file"
+    },
+    "develop.py": {
+      "size": 8045,
+      "type": "file"
+    },
+    "dist_info.py": {
+      "size": 960,
+      "type": "file"
+    },
+    "easy_install.py": {
+      "size": 85308,
+      "type": "file"
+    },
+    "egg_info.py": {
+      "size": 25335,
+      "type": "file"
+    },
+    "install.py": {
+      "size": 4705,
+      "type": "file"
+    },
+    "install_egg_info.py": {
+      "size": 2203,
+      "type": "file"
+    },
+    "install_lib.py": {
+      "size": 3875,
+      "type": "file"
+    },
+    "install_scripts.py": {
+      "size": 2593,
+      "type": "file"
+    },
+    "launcher manifest.xml": {
+      "size": 628,
+      "type": "file"
+    },
+    "py36compat.py": {
+      "size": 4946,
+      "type": "file"
+    },
+    "register.py": {
+      "size": 468,
+      "type": "file"
+    },
+    "rotate.py": {
+      "size": 2128,
+      "type": "file"
+    },
+    "saveopts.py": {
+      "size": 658,
+      "type": "file"
+    },
+    "sdist.py": {
+      "size": 5967,
+      "type": "file"
+    },
+    "setopt.py": {
+      "size": 5051,
+      "type": "file"
+    },
+    "test.py": {
+      "size": 9490,
+      "type": "file"
+    },
+    "upload.py": {
+      "size": 462,
+      "type": "file"
+    },
+    "upload_docs.py": {
+      "size": 7218,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 217,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools\\extern": {
+    "__init__.py": {
+      "size": 2407,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools\\_distutils": {
+    "command": {
+      "size": 258450,
+      "type": "directory"
+    },
+    "archive_util.py": {
+      "size": 8572,
+      "type": "file"
+    },
+    "bcppcompiler.py": {
+      "size": 14894,
+      "type": "file"
+    },
+    "ccompiler.py": {
+      "size": 47607,
+      "type": "file"
+    },
+    "cmd.py": {
+      "size": 18079,
+      "type": "file"
+    },
+    "config.py": {
+      "size": 4827,
+      "type": "file"
+    },
+    "core.py": {
+      "size": 8876,
+      "type": "file"
+    },
+    "cygwinccompiler.py": {
+      "size": 16380,
+      "type": "file"
+    },
+    "debug.py": {
+      "size": 139,
+      "type": "file"
+    },
+    "dep_util.py": {
+      "size": 3491,
+      "type": "file"
+    },
+    "dir_util.py": {
+      "size": 7778,
+      "type": "file"
+    },
+    "dist.py": {
+      "size": 50421,
+      "type": "file"
+    },
+    "errors.py": {
+      "size": 3577,
+      "type": "file"
+    },
+    "extension.py": {
+      "size": 10515,
+      "type": "file"
+    },
+    "fancy_getopt.py": {
+      "size": 17784,
+      "type": "file"
+    },
+    "filelist.py": {
+      "size": 12832,
+      "type": "file"
+    },
+    "file_util.py": {
+      "size": 8148,
+      "type": "file"
+    },
+    "log.py": {
+      "size": 1969,
+      "type": "file"
+    },
+    "msvc9compiler.py": {
+      "size": 30453,
+      "type": "file"
+    },
+    "msvccompiler.py": {
+      "size": 23540,
+      "type": "file"
+    },
+    "py35compat.py": {
+      "size": 455,
+      "type": "file"
+    },
+    "py38compat.py": {
+      "size": 212,
+      "type": "file"
+    },
+    "spawn.py": {
+      "size": 4691,
+      "type": "file"
+    },
+    "sysconfig.py": {
+      "size": 21349,
+      "type": "file"
+    },
+    "text_file.py": {
+      "size": 12483,
+      "type": "file"
+    },
+    "unixccompiler.py": {
+      "size": 14696,
+      "type": "file"
+    },
+    "util.py": {
+      "size": 20985,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 12514,
+      "type": "file"
+    },
+    "versionpredicate.py": {
+      "size": 5133,
+      "type": "file"
+    },
+    "_msvccompiler.py": {
+      "size": 20813,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 250,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command": {
+    "bdist.py": {
+      "size": 5562,
+      "type": "file"
+    },
+    "bdist_dumb.py": {
+      "size": 4913,
+      "type": "file"
+    },
+    "bdist_msi.py": {
+      "size": 35579,
+      "type": "file"
+    },
+    "bdist_rpm.py": {
+      "size": 21537,
+      "type": "file"
+    },
+    "bdist_wininst.py": {
+      "size": 16030,
+      "type": "file"
+    },
+    "build.py": {
+      "size": 5767,
+      "type": "file"
+    },
+    "build_clib.py": {
+      "size": 8022,
+      "type": "file"
+    },
+    "build_ext.py": {
+      "size": 31685,
+      "type": "file"
+    },
+    "build_py.py": {
+      "size": 17190,
+      "type": "file"
+    },
+    "build_scripts.py": {
+      "size": 6232,
+      "type": "file"
+    },
+    "check.py": {
+      "size": 5637,
+      "type": "file"
+    },
+    "clean.py": {
+      "size": 2776,
+      "type": "file"
+    },
+    "config.py": {
+      "size": 13117,
+      "type": "file"
+    },
+    "install.py": {
+      "size": 27482,
+      "type": "file"
+    },
+    "install_data.py": {
+      "size": 2822,
+      "type": "file"
+    },
+    "install_egg_info.py": {
+      "size": 2603,
+      "type": "file"
+    },
+    "install_headers.py": {
+      "size": 1298,
+      "type": "file"
+    },
+    "install_lib.py": {
+      "size": 8397,
+      "type": "file"
+    },
+    "install_scripts.py": {
+      "size": 2017,
+      "type": "file"
+    },
+    "py37compat.py": {
+      "size": 671,
+      "type": "file"
+    },
+    "register.py": {
+      "size": 11712,
+      "type": "file"
+    },
+    "sdist.py": {
+      "size": 19005,
+      "type": "file"
+    },
+    "upload.py": {
+      "size": 7597,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 799,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools\\_vendor": {
+    "more_itertools": {
+      "size": 134306,
+      "type": "directory"
+    },
+    "packaging": {
+      "size": 93978,
+      "type": "directory"
+    },
+    "ordered_set.py": {
+      "size": 15130,
+      "type": "file"
+    },
+    "pyparsing.py": {
+      "size": 232056,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools": {
+    "more.py": {
+      "size": 117968,
+      "type": "file"
+    },
+    "recipes.py": {
+      "size": 16256,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 82,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging": {
+    "markers.py": {
+      "size": 9509,
+      "type": "file"
+    },
+    "requirements.py": {
+      "size": 4917,
+      "type": "file"
+    },
+    "specifiers.py": {
+      "size": 31944,
+      "type": "file"
+    },
+    "tags.py": {
+      "size": 24067,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 1811,
+      "type": "file"
+    },
+    "version.py": {
+      "size": 15470,
+      "type": "file"
+    },
+    "_compat.py": {
+      "size": 1128,
+      "type": "file"
+    },
+    "_structures.py": {
+      "size": 2022,
+      "type": "file"
+    },
+    "_typing.py": {
+      "size": 1812,
+      "type": "file"
+    },
+    "__about__.py": {
+      "size": 736,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 562,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\setuptools-57.0.0.dist-info": {
+    "dependency_links.txt": {
+      "size": 239,
+      "type": "file"
+    },
+    "entry_points.txt": {
+      "size": 2869,
+      "type": "file"
+    },
+    "INSTALLER": {
+      "size": 5,
+      "type": "file"
+    },
+    "LICENSE": {
+      "size": 1050,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 4952,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 21856,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 41,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3": {
+    "contrib": {
+      "size": 183405,
+      "type": "directory"
+    },
+    "packages": {
+      "size": 65319,
+      "type": "directory"
+    },
+    "util": {
+      "size": 171079,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 118265,
+      "type": "directory"
+    },
+    "connection.py": {
+      "size": 20070,
+      "type": "file"
+    },
+    "connectionpool.py": {
+      "size": 39095,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 8217,
+      "type": "file"
+    },
+    "fields.py": {
+      "size": 8579,
+      "type": "file"
+    },
+    "filepost.py": {
+      "size": 2440,
+      "type": "file"
+    },
+    "poolmanager.py": {
+      "size": 19786,
+      "type": "file"
+    },
+    "request.py": {
+      "size": 5985,
+      "type": "file"
+    },
+    "response.py": {
+      "size": 30761,
+      "type": "file"
+    },
+    "_collections.py": {
+      "size": 10811,
+      "type": "file"
+    },
+    "_version.py": {
+      "size": 64,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 3333,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\contrib": {
+    "_securetransport": {
+      "size": 51606,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 56734,
+      "type": "directory"
+    },
+    "appengine.py": {
+      "size": 11012,
+      "type": "file"
+    },
+    "ntlmpool.py": {
+      "size": 4528,
+      "type": "file"
+    },
+    "pyopenssl.py": {
+      "size": 17055,
+      "type": "file"
+    },
+    "securetransport.py": {
+      "size": 34416,
+      "type": "file"
+    },
+    "socks.py": {
+      "size": 7097,
+      "type": "file"
+    },
+    "_appengine_environ.py": {
+      "size": 957,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\contrib\\_securetransport": {
+    "__pycache__": {
+      "size": 20052,
+      "type": "directory"
+    },
+    "bindings.py": {
+      "size": 17632,
+      "type": "file"
+    },
+    "low_level.py": {
+      "size": 13922,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\contrib\\_securetransport\\__pycache__": {
+    "bindings.cpython-39.pyc": {
+      "size": 10692,
+      "type": "file"
+    },
+    "low_level.cpython-39.pyc": {
+      "size": 9160,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 200,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\contrib\\__pycache__": {
+    "appengine.cpython-39.pyc": {
+      "size": 8233,
+      "type": "file"
+    },
+    "ntlmpool.cpython-39.pyc": {
+      "size": 3599,
+      "type": "file"
+    },
+    "pyopenssl.cpython-39.pyc": {
+      "size": 15827,
+      "type": "file"
+    },
+    "securetransport.cpython-39.pyc": {
+      "size": 21870,
+      "type": "file"
+    },
+    "socks.cpython-39.pyc": {
+      "size": 5619,
+      "type": "file"
+    },
+    "_appengine_environ.cpython-39.pyc": {
+      "size": 1403,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 183,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\packages": {
+    "backports": {
+      "size": 2903,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 27751,
+      "type": "directory"
+    },
+    "six.py": {
+      "size": 34665,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\packages\\backports": {
+    "__pycache__": {
+      "size": 1486,
+      "type": "directory"
+    },
+    "makefile.py": {
+      "size": 1417,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\packages\\backports\\__pycache__": {
+    "makefile.cpython-39.pyc": {
+      "size": 1292,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 194,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\packages\\__pycache__": {
+    "six.cpython-39.pyc": {
+      "size": 27567,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 184,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\util": {
+    "__pycache__": {
+      "size": 73677,
+      "type": "directory"
+    },
+    "connection.py": {
+      "size": 4901,
+      "type": "file"
+    },
+    "proxy.py": {
+      "size": 1605,
+      "type": "file"
+    },
+    "queue.py": {
+      "size": 498,
+      "type": "file"
+    },
+    "request.py": {
+      "size": 4225,
+      "type": "file"
+    },
+    "response.py": {
+      "size": 3510,
+      "type": "file"
+    },
+    "retry.py": {
+      "size": 22003,
+      "type": "file"
+    },
+    "ssltransport.py": {
+      "size": 6895,
+      "type": "file"
+    },
+    "ssl_.py": {
+      "size": 17165,
+      "type": "file"
+    },
+    "ssl_match_hostname.py": {
+      "size": 5758,
+      "type": "file"
+    },
+    "timeout.py": {
+      "size": 10003,
+      "type": "file"
+    },
+    "url.py": {
+      "size": 14281,
+      "type": "file"
+    },
+    "wait.py": {
+      "size": 5403,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 1155,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\util\\__pycache__": {
+    "connection.cpython-39.pyc": {
+      "size": 3425,
+      "type": "file"
+    },
+    "proxy.cpython-39.pyc": {
+      "size": 1329,
+      "type": "file"
+    },
+    "queue.cpython-39.pyc": {
+      "size": 1048,
+      "type": "file"
+    },
+    "request.cpython-39.pyc": {
+      "size": 3486,
+      "type": "file"
+    },
+    "response.cpython-39.pyc": {
+      "size": 2333,
+      "type": "file"
+    },
+    "retry.cpython-39.pyc": {
+      "size": 16245,
+      "type": "file"
+    },
+    "ssltransport.cpython-39.pyc": {
+      "size": 7463,
+      "type": "file"
+    },
+    "ssl_.cpython-39.pyc": {
+      "size": 11305,
+      "type": "file"
+    },
+    "ssl_match_hostname.cpython-39.pyc": {
+      "size": 3247,
+      "type": "file"
+    },
+    "timeout.cpython-39.pyc": {
+      "size": 8931,
+      "type": "file"
+    },
+    "url.cpython-39.pyc": {
+      "size": 10656,
+      "type": "file"
+    },
+    "wait.cpython-39.pyc": {
+      "size": 3116,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 1093,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3\\__pycache__": {
+    "connection.cpython-39.pyc": {
+      "size": 13661,
+      "type": "file"
+    },
+    "connectionpool.cpython-39.pyc": {
+      "size": 25374,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 11630,
+      "type": "file"
+    },
+    "fields.cpython-39.pyc": {
+      "size": 8145,
+      "type": "file"
+    },
+    "filepost.cpython-39.pyc": {
+      "size": 2746,
+      "type": "file"
+    },
+    "poolmanager.cpython-39.pyc": {
+      "size": 15165,
+      "type": "file"
+    },
+    "request.cpython-39.pyc": {
+      "size": 5609,
+      "type": "file"
+    },
+    "response.cpython-39.pyc": {
+      "size": 22478,
+      "type": "file"
+    },
+    "_collections.cpython-39.pyc": {
+      "size": 10768,
+      "type": "file"
+    },
+    "_version.cpython-39.pyc": {
+      "size": 198,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 2491,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\urllib3-1.26.14.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.txt": {
+      "size": 1115,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 47722,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 5747,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 8,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 110,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug": {
+    "debug": {
+      "size": 108216,
+      "type": "directory"
+    },
+    "middleware": {
+      "size": 89147,
+      "type": "directory"
+    },
+    "routing": {
+      "size": 174221,
+      "type": "directory"
+    },
+    "sansio": {
+      "size": 121347,
+      "type": "directory"
+    },
+    "wrappers": {
+      "size": 109203,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 405958,
+      "type": "directory"
+    },
+    "datastructures.py": {
+      "size": 97081,
+      "type": "file"
+    },
+    "datastructures.pyi": {
+      "size": 34506,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 26527,
+      "type": "file"
+    },
+    "formparser.py": {
+      "size": 16516,
+      "type": "file"
+    },
+    "http.py": {
+      "size": 42776,
+      "type": "file"
+    },
+    "local.py": {
+      "size": 22288,
+      "type": "file"
+    },
+    "py.typed": {
+      "size": 0,
+      "type": "file"
+    },
+    "security.py": {
+      "size": 4653,
+      "type": "file"
+    },
+    "serving.py": {
+      "size": 37558,
+      "type": "file"
+    },
+    "test.py": {
+      "size": 48126,
+      "type": "file"
+    },
+    "testapp.py": {
+      "size": 9404,
+      "type": "file"
+    },
+    "urls.py": {
+      "size": 36600,
+      "type": "file"
+    },
+    "user_agent.py": {
+      "size": 1420,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 25174,
+      "type": "file"
+    },
+    "wsgi.py": {
+      "size": 36060,
+      "type": "file"
+    },
+    "_internal.py": {
+      "size": 16271,
+      "type": "file"
+    },
+    "_reloader.py": {
+      "size": 14285,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 188,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\debug": {
+    "shared": {
+      "size": 17719,
+      "type": "directory"
+    },
+    "__pycache__": {
+      "size": 42677,
+      "type": "directory"
+    },
+    "console.py": {
+      "size": 6208,
+      "type": "file"
+    },
+    "repr.py": {
+      "size": 9472,
+      "type": "file"
+    },
+    "tbtools.py": {
+      "size": 13263,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 18877,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\debug\\shared": {
+    "console.png": {
+      "size": 507,
+      "type": "file"
+    },
+    "debugger.js": {
+      "size": 10521,
+      "type": "file"
+    },
+    "ICON_LICENSE.md": {
+      "size": 222,
+      "type": "file"
+    },
+    "less.png": {
+      "size": 191,
+      "type": "file"
+    },
+    "more.png": {
+      "size": 200,
+      "type": "file"
+    },
+    "style.css": {
+      "size": 6078,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\debug\\__pycache__": {
+    "console.cpython-39.pyc": {
+      "size": 8196,
+      "type": "file"
+    },
+    "repr.cpython-39.pyc": {
+      "size": 8877,
+      "type": "file"
+    },
+    "tbtools.cpython-39.pyc": {
+      "size": 11441,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 14163,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\middleware": {
+    "__pycache__": {
+      "size": 43172,
+      "type": "directory"
+    },
+    "dispatcher.py": {
+      "size": 2580,
+      "type": "file"
+    },
+    "http_proxy.py": {
+      "size": 7558,
+      "type": "file"
+    },
+    "lint.py": {
+      "size": 13952,
+      "type": "file"
+    },
+    "profiler.py": {
+      "size": 4883,
+      "type": "file"
+    },
+    "proxy_fix.py": {
+      "size": 6974,
+      "type": "file"
+    },
+    "shared_data.py": {
+      "size": 9528,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 500,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\middleware\\__pycache__": {
+    "dispatcher.cpython-39.pyc": {
+      "size": 2754,
+      "type": "file"
+    },
+    "http_proxy.cpython-39.pyc": {
+      "size": 6799,
+      "type": "file"
+    },
+    "lint.cpython-39.pyc": {
+      "size": 12702,
+      "type": "file"
+    },
+    "profiler.cpython-39.pyc": {
+      "size": 4947,
+      "type": "file"
+    },
+    "proxy_fix.cpython-39.pyc": {
+      "size": 6171,
+      "type": "file"
+    },
+    "shared_data.cpython-39.pyc": {
+      "size": 9104,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 695,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\routing": {
+    "__pycache__": {
+      "size": 81595,
+      "type": "directory"
+    },
+    "converters.py": {
+      "size": 6968,
+      "type": "file"
+    },
+    "exceptions.py": {
+      "size": 4737,
+      "type": "file"
+    },
+    "map.py": {
+      "size": 36757,
+      "type": "file"
+    },
+    "matcher.py": {
+      "size": 7509,
+      "type": "file"
+    },
+    "rules.py": {
+      "size": 31836,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 4819,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\routing\\__pycache__": {
+    "converters.cpython-39.pyc": {
+      "size": 8645,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 5484,
+      "type": "file"
+    },
+    "map.cpython-39.pyc": {
+      "size": 30863,
+      "type": "file"
+    },
+    "matcher.cpython-39.pyc": {
+      "size": 4623,
+      "type": "file"
+    },
+    "rules.cpython-39.pyc": {
+      "size": 27355,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 4625,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\sansio": {
+    "__pycache__": {
+      "size": 55137,
+      "type": "directory"
+    },
+    "http.py": {
+      "size": 5107,
+      "type": "file"
+    },
+    "multipart.py": {
+      "size": 10055,
+      "type": "file"
+    },
+    "request.py": {
+      "size": 20175,
+      "type": "file"
+    },
+    "response.py": {
+      "size": 26026,
+      "type": "file"
+    },
+    "utils.py": {
+      "size": 4847,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\sansio\\__pycache__": {
+    "http.cpython-39.pyc": {
+      "size": 3785,
+      "type": "file"
+    },
+    "multipart.cpython-39.pyc": {
+      "size": 6859,
+      "type": "file"
+    },
+    "request.cpython-39.pyc": {
+      "size": 17126,
+      "type": "file"
+    },
+    "response.cpython-39.pyc": {
+      "size": 22656,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 4528,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 183,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\wrappers": {
+    "__pycache__": {
+      "size": 50094,
+      "type": "directory"
+    },
+    "request.py": {
+      "size": 24026,
+      "type": "file"
+    },
+    "response.py": {
+      "size": 34963,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 120,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\__pycache__": {
+    "request.cpython-39.pyc": {
+      "size": 20442,
+      "type": "file"
+    },
+    "response.cpython-39.pyc": {
+      "size": 29350,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 302,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\werkzeug\\__pycache__": {
+    "datastructures.cpython-39.pyc": {
+      "size": 105992,
+      "type": "file"
+    },
+    "exceptions.cpython-39.pyc": {
+      "size": 28204,
+      "type": "file"
+    },
+    "formparser.cpython-39.pyc": {
+      "size": 13325,
+      "type": "file"
+    },
+    "http.cpython-39.pyc": {
+      "size": 36878,
+      "type": "file"
+    },
+    "local.cpython-39.pyc": {
+      "size": 20647,
+      "type": "file"
+    },
+    "security.cpython-39.pyc": {
+      "size": 4852,
+      "type": "file"
+    },
+    "serving.cpython-39.pyc": {
+      "size": 28949,
+      "type": "file"
+    },
+    "test.cpython-39.pyc": {
+      "size": 39179,
+      "type": "file"
+    },
+    "testapp.cpython-39.pyc": {
+      "size": 9546,
+      "type": "file"
+    },
+    "urls.cpython-39.pyc": {
+      "size": 32671,
+      "type": "file"
+    },
+    "user_agent.cpython-39.pyc": {
+      "size": 1831,
+      "type": "file"
+    },
+    "utils.cpython-39.pyc": {
+      "size": 21892,
+      "type": "file"
+    },
+    "wsgi.cpython-39.pyc": {
+      "size": 32250,
+      "type": "file"
+    },
+    "_internal.cpython-39.pyc": {
+      "size": 17126,
+      "type": "file"
+    },
+    "_reloader.cpython-39.pyc": {
+      "size": 12266,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 350,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\Werkzeug-2.2.3.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE.rst": {
+      "size": 1475,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 4416,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 6879,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 9,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\wheel": {
+    "cli": {
+      "size": 15951,
+      "type": "directory"
+    },
+    "vendored": {
+      "size": 30749,
+      "type": "directory"
+    },
+    "bdist_wheel.py": {
+      "size": 19075,
+      "type": "file"
+    },
+    "macosx_libfile.py": {
+      "size": 15931,
+      "type": "file"
+    },
+    "metadata.py": {
+      "size": 4344,
+      "type": "file"
+    },
+    "pkginfo.py": {
+      "size": 1257,
+      "type": "file"
+    },
+    "util.py": {
+      "size": 938,
+      "type": "file"
+    },
+    "wheelfile.py": {
+      "size": 7336,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 23,
+      "type": "file"
+    },
+    "__main__.py": {
+      "size": 417,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\wheel\\cli": {
+    "convert.py": {
+      "size": 9498,
+      "type": "file"
+    },
+    "pack.py": {
+      "size": 3208,
+      "type": "file"
+    },
+    "unpack.py": {
+      "size": 673,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 2572,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\wheel\\vendored": {
+    "packaging": {
+      "size": 30749,
+      "type": "directory"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging": {
+    "tags.py": {
+      "size": 28937,
+      "type": "file"
+    },
+    "_typing.py": {
+      "size": 1812,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 0,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\wheel-0.36.2.dist-info": {
+    "entry_points.txt": {
+      "size": 108,
+      "type": "file"
+    },
+    "INSTALLER": {
+      "size": 5,
+      "type": "file"
+    },
+    "LICENSE.txt": {
+      "size": 1125,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 2277,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 2639,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 6,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 110,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\zipp": {
+    "__pycache__": {
+      "size": 13454,
+      "type": "directory"
+    },
+    "py310compat.py": {
+      "size": 309,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 10455,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\zipp\\__pycache__": {
+    "py310compat.cpython-39.pyc": {
+      "size": 432,
+      "type": "file"
+    },
+    "__init__.cpython-39.pyc": {
+      "size": 13022,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\zipp-3.14.0.dist-info": {
+    "INSTALLER": {
+      "size": 4,
+      "type": "file"
+    },
+    "LICENSE": {
+      "size": 1050,
+      "type": "file"
+    },
+    "METADATA": {
+      "size": 3742,
+      "type": "file"
+    },
+    "RECORD": {
+      "size": 708,
+      "type": "file"
+    },
+    "top_level.txt": {
+      "size": 5,
+      "type": "file"
+    },
+    "WHEEL": {
+      "size": 92,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\_distutils_hack": {
+    "override.py": {
+      "size": 44,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 3688,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Lib\\site-packages\\__pycache__": {
+    "_virtualenv.cpython-39.pyc": {
+      "size": 4066,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\Scripts": {
+    "activate": {
+      "size": 2166,
+      "type": "file"
+    },
+    "activate.bat": {
+      "size": 1039,
+      "type": "file"
+    },
+    "activate.fish": {
+      "size": 3089,
+      "type": "file"
+    },
+    "activate.ps1": {
+      "size": 1755,
+      "type": "file"
+    },
+    "activate.xsh": {
+      "size": 1180,
+      "type": "file"
+    },
+    "activate_this.py": {
+      "size": 1193,
+      "type": "file"
+    },
+    "deactivate.bat": {
+      "size": 510,
+      "type": "file"
+    },
+    "flask.exe": {
+      "size": 106363,
+      "type": "file"
+    },
+    "normalizer.exe": {
+      "size": 106399,
+      "type": "file"
+    },
+    "pip-3.9.exe": {
+      "size": 106376,
+      "type": "file"
+    },
+    "pip.exe": {
+      "size": 106376,
+      "type": "file"
+    },
+    "pip3.9.exe": {
+      "size": 106376,
+      "type": "file"
+    },
+    "pip3.exe": {
+      "size": 106376,
+      "type": "file"
+    },
+    "pydoc.bat": {
+      "size": 24,
+      "type": "file"
+    },
+    "python.exe": {
+      "size": 543464,
+      "type": "file"
+    },
+    "pythonw.exe": {
+      "size": 542440,
+      "type": "file"
+    },
+    "wheel-3.9.exe": {
+      "size": 106363,
+      "type": "file"
+    },
+    "wheel.exe": {
+      "size": 106363,
+      "type": "file"
+    },
+    "wheel3.9.exe": {
+      "size": 106363,
+      "type": "file"
+    },
+    "wheel3.exe": {
+      "size": 106363,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_01": {
+    "LeapYear.py": {
+      "size": 408,
+      "type": "file"
+    },
+    "task_01.py": {
+      "size": 1465,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 426,
+      "type": "file"
+    },
+    "task_03.py": {
+      "size": 367,
+      "type": "file"
+    },
+    "task_04.py": {
+      "size": 1344,
+      "type": "file"
+    },
+    "task_05.py": {
+      "size": 956,
+      "type": "file"
+    },
+    "task_06.py": {
+      "size": 1300,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_02": {
+    "task_01.py": {
+      "size": 306,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 1305,
+      "type": "file"
+    },
+    "task_03.py": {
+      "size": 1069,
+      "type": "file"
+    },
+    "task_04.py": {
+      "size": 1015,
+      "type": "file"
+    },
+    "task_05.py": {
+      "size": 911,
+      "type": "file"
+    },
+    "task_06.py": {
+      "size": 2899,
+      "type": "file"
+    },
+    "task_07.py": {
+      "size": 791,
+      "type": "file"
+    },
+    "task_08.py": {
+      "size": 1640,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_03": {
+    "task_01.py": {
+      "size": 776,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 986,
+      "type": "file"
+    },
+    "task_03.py": {
+      "size": 708,
+      "type": "file"
+    },
+    "task_04.py": {
+      "size": 464,
+      "type": "file"
+    },
+    "task_05.py": {
+      "size": 510,
+      "type": "file"
+    },
+    "task_06.py": {
+      "size": 790,
+      "type": "file"
+    },
+    "task_07.py": {
+      "size": 874,
+      "type": "file"
+    },
+    "task_08.py": {
+      "size": 1630,
+      "type": "file"
+    },
+    "task_09_HW.py": {
+      "size": 600,
+      "type": "file"
+    },
+    "task_10_HW.py": {
+      "size": 904,
+      "type": "file"
+    },
+    "task_11_HW.py": {
+      "size": 1267,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_04": {
+    "task_01.py": {
+      "size": 1294,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 565,
+      "type": "file"
+    },
+    "task_03.py": {
+      "size": 722,
+      "type": "file"
+    },
+    "task_04.py": {
+      "size": 688,
+      "type": "file"
+    },
+    "task_05.py": {
+      "size": 1112,
+      "type": "file"
+    },
+    "task_06.py": {
+      "size": 830,
+      "type": "file"
+    },
+    "task_07.py": {
+      "size": 874,
+      "type": "file"
+    },
+    "task_08.py": {
+      "size": 539,
+      "type": "file"
+    },
+    "task_09.py": {
+      "size": 523,
+      "type": "file"
+    },
+    "task_10.py": {
+      "size": 721,
+      "type": "file"
+    },
+    "task_11.py": {
+      "size": 2338,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_05": {
+    "task_01.py": {
+      "size": 829,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 528,
+      "type": "file"
+    },
+    "task_03.py": {
+      "size": 572,
+      "type": "file"
+    },
+    "task_04.py": {
+      "size": 680,
+      "type": "file"
+    },
+    "task_05.py": {
+      "size": 735,
+      "type": "file"
+    },
+    "task_06.py": {
+      "size": 654,
+      "type": "file"
+    },
+    "task_07.py": {
+      "size": 673,
+      "type": "file"
+    },
+    "task_08_hw.py": {
+      "size": 552,
+      "type": "file"
+    },
+    "task_09_hw.py": {
+      "size": 832,
+      "type": "file"
+    },
+    "task_10_hw.py": {
+      "size": 276,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_06": {
+    "task_01.py": {
+      "size": 528,
+      "type": "file"
+    },
+    "task_01_hw.py": {
+      "size": 2137,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 1500,
+      "type": "file"
+    },
+    "task_02_hw.py": {
+      "size": 1708,
+      "type": "file"
+    },
+    "task_03.py": {
+      "size": 1473,
+      "type": "file"
+    },
+    "task_04.py": {
+      "size": 1058,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 26,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_07": {
+    "task_01.py": {
+      "size": 917,
+      "type": "file"
+    },
+    "task_01_data.txt": {
+      "size": 128,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 1125,
+      "type": "file"
+    },
+    "task_02_data.txt": {
+      "size": 58,
+      "type": "file"
+    },
+    "task_03.py": {
+      "size": 2311,
+      "type": "file"
+    },
+    "task_03_data.txt": {
+      "size": 179,
+      "type": "file"
+    },
+    "task_04.py": {
+      "size": 1001,
+      "type": "file"
+    },
+    "task_05.py": {
+      "size": 0,
+      "type": "file"
+    },
+    "task_06.py": {
+      "size": 0,
+      "type": "file"
+    },
+    "task_07.py": {
+      "size": 0,
+      "type": "file"
+    },
+    "task_08_hw.py": {
+      "size": 2163,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 26,
+      "type": "file"
+    }
+  },
+  "C:\\Users\\Admin\\MyProjectsPython\\GB_python\\venv\\seminar_08": {
+    "info.csv": {
+      "size": 220939,
+      "type": "file"
+    },
+    "info.json": {
+      "size": 181848,
+      "type": "file"
+    },
+    "info.pickle": {
+      "size": 132176,
+      "type": "file"
+    },
+    "task_01.py": {
+      "size": 1149,
+      "type": "file"
+    },
+    "task_01_data.json": {
+      "size": 222,
+      "type": "file"
+    },
+    "task_01_data.txt": {
+      "size": 179,
+      "type": "file"
+    },
+    "task_02.py": {
+      "size": 2677,
+      "type": "file"
+    },
+    "task_02_data.json": {
+      "size": 168,
+      "type": "file"
+    },
+    "task_03_hw.py": {
+      "size": 3165,
+      "type": "file"
+    },
+    "__init__.py": {
+      "size": 26,
+      "type": "file"
+    }
+  }
+}

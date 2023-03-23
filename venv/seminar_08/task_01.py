@@ -5,36 +5,22 @@
 Каждую пару сохраняйте с новой строки.
 """
 
+import json
 
-def parse_row(text: str) -> (int, float):
-    text = text.replace(" ", "")
-    temp = text.split('|')
-    return int(temp[0]), float(temp[1])
+__all__ = [
+    'parse_file_to_JSON'
+]
 
 
-def open_files_task3(file_name1: str, file_name2: str, file_name3: str = "task_03_data.txt") -> None:
-    with (
-            open(file_name1, 'r', encoding='utf-8') as f1,
-    open(file_name2, 'r', encoding='utf-8') as f2,
-    open(file_name3, 'w', encoding='utf-8') as f3
-    ):
-        lenf1 = sum(1 for i in f1)
-        lenf2 = sum(1 for i in f2)
-        for _ in range(max(lenf1, lenf2)):
-            text = f2.readline().replace('\n', '')
-            if text == "":
-                f2.seek(0)
-                text = f2.readline().replace('\n', '')
-            nums = f1.readline().replace('\n', '')
-            if nums == "":
-                f1.seek(0)
-                nums = f1.readline().replace('\n', '')
-            num1, num2 = parse_row(nums)
-            if num1 * num2 < 0:
-                f3.write(f"{text.lower()}, {abs(num1 * num2)}\n")
-            else:
-                f3.write(f"{text.upper()}, {round(num1 * num2)}\n")
+def parse_file_to_JSON(file_name: str, file_name_JSON: str) -> None:
+    with open(file_name, 'r', encoding='utf-8') as f:
+        data_dict = {}
+        for line in f:
+            lst = line.replace('\n', '').replace(' ', '').split(',')
+            data_dict[lst[0].capitalize()] = int(lst[1]) if '.' not in lst[1] else float(lst[1])
+        with open(f"{file_name_JSON}.json", 'w', encoding='utf-8') as f1:
+            json.dump(data_dict, f1, ensure_ascii=False, indent=2)
 
 
 if __name__ == '__main__':
-    open_files_task3("task_01_data.txt", "task_02_data.txt")
+    parse_file_to_JSON("task_01_data.txt", "task_01_data")
