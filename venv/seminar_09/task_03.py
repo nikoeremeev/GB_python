@@ -9,6 +9,10 @@
 import json
 from pathlib import Path
 
+__all__ = [
+    'my_func'
+]
+
 
 def read_json(name: str) -> dict:
     file_name = Path(f'{name}.json')

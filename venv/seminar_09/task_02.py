@@ -8,7 +8,10 @@
 from typing import Callable
 from random import randint
 
-
+__all__ = [
+    'check_param',
+    'binary_search_game_wrap'
+]
 def check_param(func) -> Callable[[], None]:
     def wrapper(num: int, count: int, *args, **kwargs):
         if not 0 < num < 100:
