@@ -7,6 +7,10 @@
 
 from random import randint
 
+__all__ = [
+    'guess_the_number'
+]
+
 
 def guess_the_number(number: int, count: int):
     def wrapper():
