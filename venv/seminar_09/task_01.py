@@ -5,6 +5,7 @@
 Функция возвращает функцию, которая через консоль просит угадать загаданное число за указанное число попыток.
 """
 
+from typing import Callable
 from random import randint
 
 __all__ = [
@@ -12,7 +13,7 @@ __all__ = [
 ]
 
 
-def guess_the_number(number: int, count: int):
+def guess_the_number(number: int, count: int) -> Callable[[], None]:
     def wrapper():
         for i in range(1, count + 1):
             print(f"Попытка номер {i} из {count}.")
