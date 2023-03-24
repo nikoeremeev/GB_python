@@ -9,7 +9,7 @@ from typing import Callable
 from random import randint
 
 
-def deco(func) -> Callable[[], None]:
+def check_param(func) -> Callable[[], None]:
     def wrapper(num: int, count: int, *args, **kwargs):
         if not 0 < num < 100:
             num = randint(1, 100)
@@ -21,7 +21,7 @@ def deco(func) -> Callable[[], None]:
     return wrapper
 
 
-@deco
+@check_param
 def binary_search_game_wrap(number: int, count: int) -> None:
     for i in range(1, count + 1):
         print(f"Попытка номер {i} из {count}.")
