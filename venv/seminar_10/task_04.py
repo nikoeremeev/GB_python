@@ -29,7 +29,11 @@ class Employee(Person):
     def __init__(self, name: str, last_name: str, age: int, id: int):
         super().__init__(name, last_name, age)
         self.__id = id
-        self.__level = self.__id % 7
+        self.__level = None
+
+    def set_level(self):
+        sum_digits = [int(i) for i in str(self.__id)]
+        self.__level = sum(sum_digits) % 7
 
     def get_level(self) -> int:
         return self.__level
@@ -39,5 +43,5 @@ class Employee(Person):
 
 
 if __name__ == '__main__':
-    e1 = Employee("Mike", "Jekson", 25, 123456)
-    print(e1.full_name(), e1.get_age(), e1.get_id(), e1.get_level())
+    e1 = Employee("Mike", "Jekson", 25, 123406)
+    print(e1.full_name(), e1.get_age(), e1.get_id(), e1.set_level(), e1.get_level())
