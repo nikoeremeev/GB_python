@@ -12,10 +12,10 @@ class Rectangle:
         self.side_a = side_a
         self.side_b = side_a if side_b is None else side_b
 
-    def get_area(self):
+    def get_area(self) -> float:
         return self.side_a * self.side_b
 
-    def get_long(self):
+    def get_long(self) -> float:
         return 2 * (self.side_a + self.side_b)
 
 
